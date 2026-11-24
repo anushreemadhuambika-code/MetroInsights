@@ -1,0 +1,2251 @@
+date,time,station,day_type,passengers
+2026-07-01,07:00,Aluva,Weekday,5017
+2026-07-01,08:00,Aluva,Weekday,4478
+2026-07-01,09:00,Aluva,Weekday,4826
+2026-07-01,10:00,Aluva,Weekday,3207
+2026-07-01,11:00,Aluva,Weekday,2924
+2026-07-01,12:00,Aluva,Weekday,2789
+2026-07-01,13:00,Aluva,Weekday,3173
+2026-07-01,14:00,Aluva,Weekday,2958
+2026-07-01,15:00,Aluva,Weekday,3038
+2026-07-01,16:00,Aluva,Weekday,3347
+2026-07-01,17:00,Aluva,Weekday,5077
+2026-07-01,18:00,Aluva,Weekday,5993
+2026-07-01,19:00,Aluva,Weekday,5673
+2026-07-01,20:00,Aluva,Weekday,5388
+2026-07-01,21:00,Aluva,Weekday,2006
+2026-07-01,07:00,Maharajas,Weekday,4691
+2026-07-01,08:00,Maharajas,Weekday,4597
+2026-07-01,09:00,Maharajas,Weekday,4612
+2026-07-01,10:00,Maharajas,Weekday,2652
+2026-07-01,11:00,Maharajas,Weekday,2827
+2026-07-01,12:00,Maharajas,Weekday,2956
+2026-07-01,13:00,Maharajas,Weekday,2998
+2026-07-01,14:00,Maharajas,Weekday,2994
+2026-07-01,15:00,Maharajas,Weekday,2546
+2026-07-01,16:00,Maharajas,Weekday,2617
+2026-07-01,17:00,Maharajas,Weekday,4590
+2026-07-01,18:00,Maharajas,Weekday,4940
+2026-07-01,19:00,Maharajas,Weekday,4748
+2026-07-01,20:00,Maharajas,Weekday,4932
+2026-07-01,21:00,Maharajas,Weekday,2135
+2026-07-01,07:00,Edappally,Weekday,5236
+2026-07-01,08:00,Edappally,Weekday,4942
+2026-07-01,09:00,Edappally,Weekday,4790
+2026-07-01,10:00,Edappally,Weekday,2975
+2026-07-01,11:00,Edappally,Weekday,3467
+2026-07-01,12:00,Edappally,Weekday,3150
+2026-07-01,13:00,Edappally,Weekday,3159
+2026-07-01,14:00,Edappally,Weekday,3182
+2026-07-01,15:00,Edappally,Weekday,3262
+2026-07-01,16:00,Edappally,Weekday,3531
+2026-07-01,17:00,Edappally,Weekday,6236
+2026-07-01,18:00,Edappally,Weekday,5204
+2026-07-01,19:00,Edappally,Weekday,5778
+2026-07-01,20:00,Edappally,Weekday,6324
+2026-07-01,21:00,Edappally,Weekday,2476
+2026-07-01,07:00,MG Road,Weekday,5452
+2026-07-01,08:00,MG Road,Weekday,5569
+2026-07-01,09:00,MG Road,Weekday,5172
+2026-07-01,10:00,MG Road,Weekday,3330
+2026-07-01,11:00,MG Road,Weekday,3383
+2026-07-01,12:00,MG Road,Weekday,3695
+2026-07-01,13:00,MG Road,Weekday,3034
+2026-07-01,14:00,MG Road,Weekday,3434
+2026-07-01,15:00,MG Road,Weekday,3062
+2026-07-01,16:00,MG Road,Weekday,3280
+2026-07-01,17:00,MG Road,Weekday,5439
+2026-07-01,18:00,MG Road,Weekday,5976
+2026-07-01,19:00,MG Road,Weekday,6519
+2026-07-01,20:00,MG Road,Weekday,5541
+2026-07-01,21:00,MG Road,Weekday,2630
+2026-07-01,07:00,Vyttila,Weekday,4556
+2026-07-01,08:00,Vyttila,Weekday,4685
+2026-07-01,09:00,Vyttila,Weekday,4411
+2026-07-01,10:00,Vyttila,Weekday,3124
+2026-07-01,11:00,Vyttila,Weekday,2684
+2026-07-01,12:00,Vyttila,Weekday,2885
+2026-07-01,13:00,Vyttila,Weekday,3190
+2026-07-01,14:00,Vyttila,Weekday,2772
+2026-07-01,15:00,Vyttila,Weekday,2913
+2026-07-01,16:00,Vyttila,Weekday,2743
+2026-07-01,17:00,Vyttila,Weekday,5081
+2026-07-01,18:00,Vyttila,Weekday,5119
+2026-07-01,19:00,Vyttila,Weekday,5197
+2026-07-01,20:00,Vyttila,Weekday,5304
+2026-07-01,21:00,Vyttila,Weekday,1970
+2026-07-02,07:00,Aluva,Weekday,4479
+2026-07-02,08:00,Aluva,Weekday,5049
+2026-07-02,09:00,Aluva,Weekday,4948
+2026-07-02,10:00,Aluva,Weekday,2868
+2026-07-02,11:00,Aluva,Weekday,3133
+2026-07-02,12:00,Aluva,Weekday,3064
+2026-07-02,13:00,Aluva,Weekday,3122
+2026-07-02,14:00,Aluva,Weekday,2791
+2026-07-02,15:00,Aluva,Weekday,2842
+2026-07-02,16:00,Aluva,Weekday,3027
+2026-07-02,17:00,Aluva,Weekday,5104
+2026-07-02,18:00,Aluva,Weekday,5303
+2026-07-02,19:00,Aluva,Weekday,5663
+2026-07-02,20:00,Aluva,Weekday,5882
+2026-07-02,21:00,Aluva,Weekday,2270
+2026-07-02,07:00,Maharajas,Weekday,4259
+2026-07-02,08:00,Maharajas,Weekday,4600
+2026-07-02,09:00,Maharajas,Weekday,4338
+2026-07-02,10:00,Maharajas,Weekday,2942
+2026-07-02,11:00,Maharajas,Weekday,2733
+2026-07-02,12:00,Maharajas,Weekday,2769
+2026-07-02,13:00,Maharajas,Weekday,2789
+2026-07-02,14:00,Maharajas,Weekday,3033
+2026-07-02,15:00,Maharajas,Weekday,2934
+2026-07-02,16:00,Maharajas,Weekday,2822
+2026-07-02,17:00,Maharajas,Weekday,4586
+2026-07-02,18:00,Maharajas,Weekday,5138
+2026-07-02,19:00,Maharajas,Weekday,4983
+2026-07-02,20:00,Maharajas,Weekday,5140
+2026-07-02,21:00,Maharajas,Weekday,2190
+2026-07-02,07:00,Edappally,Weekday,5492
+2026-07-02,08:00,Edappally,Weekday,4700
+2026-07-02,09:00,Edappally,Weekday,5171
+2026-07-02,10:00,Edappally,Weekday,3133
+2026-07-02,11:00,Edappally,Weekday,3404
+2026-07-02,12:00,Edappally,Weekday,3388
+2026-07-02,13:00,Edappally,Weekday,3010
+2026-07-02,14:00,Edappally,Weekday,3247
+2026-07-02,15:00,Edappally,Weekday,3446
+2026-07-02,16:00,Edappally,Weekday,3179
+2026-07-02,17:00,Edappally,Weekday,5553
+2026-07-02,18:00,Edappally,Weekday,5604
+2026-07-02,19:00,Edappally,Weekday,5248
+2026-07-02,20:00,Edappally,Weekday,5604
+2026-07-02,21:00,Edappally,Weekday,2364
+2026-07-02,07:00,MG Road,Weekday,5331
+2026-07-02,08:00,MG Road,Weekday,5857
+2026-07-02,09:00,MG Road,Weekday,5073
+2026-07-02,10:00,MG Road,Weekday,3274
+2026-07-02,11:00,MG Road,Weekday,3598
+2026-07-02,12:00,MG Road,Weekday,3451
+2026-07-02,13:00,MG Road,Weekday,3140
+2026-07-02,14:00,MG Road,Weekday,3607
+2026-07-02,15:00,MG Road,Weekday,3687
+2026-07-02,16:00,MG Road,Weekday,3459
+2026-07-02,17:00,MG Road,Weekday,5569
+2026-07-02,18:00,MG Road,Weekday,6587
+2026-07-02,19:00,MG Road,Weekday,6097
+2026-07-02,20:00,MG Road,Weekday,6081
+2026-07-02,21:00,MG Road,Weekday,2172
+2026-07-02,07:00,Vyttila,Weekday,4918
+2026-07-02,08:00,Vyttila,Weekday,4778
+2026-07-02,09:00,Vyttila,Weekday,4468
+2026-07-02,10:00,Vyttila,Weekday,3175
+2026-07-02,11:00,Vyttila,Weekday,3065
+2026-07-02,12:00,Vyttila,Weekday,2869
+2026-07-02,13:00,Vyttila,Weekday,2840
+2026-07-02,14:00,Vyttila,Weekday,3070
+2026-07-02,15:00,Vyttila,Weekday,2988
+2026-07-02,16:00,Vyttila,Weekday,3120
+2026-07-02,17:00,Vyttila,Weekday,5526
+2026-07-02,18:00,Vyttila,Weekday,5581
+2026-07-02,19:00,Vyttila,Weekday,4799
+2026-07-02,20:00,Vyttila,Weekday,5663
+2026-07-02,21:00,Vyttila,Weekday,1995
+2026-07-03,07:00,Aluva,Weekday,4972
+2026-07-03,08:00,Aluva,Weekday,4918
+2026-07-03,09:00,Aluva,Weekday,4913
+2026-07-03,10:00,Aluva,Weekday,3281
+2026-07-03,11:00,Aluva,Weekday,2905
+2026-07-03,12:00,Aluva,Weekday,3116
+2026-07-03,13:00,Aluva,Weekday,3370
+2026-07-03,14:00,Aluva,Weekday,3372
+2026-07-03,15:00,Aluva,Weekday,2989
+2026-07-03,16:00,Aluva,Weekday,3071
+2026-07-03,17:00,Aluva,Weekday,6009
+2026-07-03,18:00,Aluva,Weekday,5447
+2026-07-03,19:00,Aluva,Weekday,4979
+2026-07-03,20:00,Aluva,Weekday,5758
+2026-07-03,21:00,Aluva,Weekday,2069
+2026-07-03,07:00,Maharajas,Weekday,4220
+2026-07-03,08:00,Maharajas,Weekday,4478
+2026-07-03,09:00,Maharajas,Weekday,4552
+2026-07-03,10:00,Maharajas,Weekday,2783
+2026-07-03,11:00,Maharajas,Weekday,2794
+2026-07-03,12:00,Maharajas,Weekday,3052
+2026-07-03,13:00,Maharajas,Weekday,2978
+2026-07-03,14:00,Maharajas,Weekday,2872
+2026-07-03,15:00,Maharajas,Weekday,2571
+2026-07-03,16:00,Maharajas,Weekday,2650
+2026-07-03,17:00,Maharajas,Weekday,4713
+2026-07-03,18:00,Maharajas,Weekday,5030
+2026-07-03,19:00,Maharajas,Weekday,5494
+2026-07-03,20:00,Maharajas,Weekday,5138
+2026-07-03,21:00,Maharajas,Weekday,2005
+2026-07-03,07:00,Edappally,Weekday,5003
+2026-07-03,08:00,Edappally,Weekday,4794
+2026-07-03,09:00,Edappally,Weekday,5538
+2026-07-03,10:00,Edappally,Weekday,3091
+2026-07-03,11:00,Edappally,Weekday,3096
+2026-07-03,12:00,Edappally,Weekday,3224
+2026-07-03,13:00,Edappally,Weekday,3496
+2026-07-03,14:00,Edappally,Weekday,3458
+2026-07-03,15:00,Edappally,Weekday,2954
+2026-07-03,16:00,Edappally,Weekday,3256
+2026-07-03,17:00,Edappally,Weekday,5906
+2026-07-03,18:00,Edappally,Weekday,6275
+2026-07-03,19:00,Edappally,Weekday,6252
+2026-07-03,20:00,Edappally,Weekday,5871
+2026-07-03,21:00,Edappally,Weekday,2387
+2026-07-03,07:00,MG Road,Weekday,5909
+2026-07-03,08:00,MG Road,Weekday,5488
+2026-07-03,09:00,MG Road,Weekday,5418
+2026-07-03,10:00,MG Road,Weekday,3287
+2026-07-03,11:00,MG Road,Weekday,3627
+2026-07-03,12:00,MG Road,Weekday,3259
+2026-07-03,13:00,MG Road,Weekday,3457
+2026-07-03,14:00,MG Road,Weekday,3152
+2026-07-03,15:00,MG Road,Weekday,3184
+2026-07-03,16:00,MG Road,Weekday,3508
+2026-07-03,17:00,MG Road,Weekday,5925
+2026-07-03,18:00,MG Road,Weekday,6102
+2026-07-03,19:00,MG Road,Weekday,5566
+2026-07-03,20:00,MG Road,Weekday,6560
+2026-07-03,21:00,MG Road,Weekday,2509
+2026-07-03,07:00,Vyttila,Weekday,4998
+2026-07-03,08:00,Vyttila,Weekday,4731
+2026-07-03,09:00,Vyttila,Weekday,4875
+2026-07-03,10:00,Vyttila,Weekday,2920
+2026-07-03,11:00,Vyttila,Weekday,3209
+2026-07-03,12:00,Vyttila,Weekday,3070
+2026-07-03,13:00,Vyttila,Weekday,3138
+2026-07-03,14:00,Vyttila,Weekday,3166
+2026-07-03,15:00,Vyttila,Weekday,2735
+2026-07-03,16:00,Vyttila,Weekday,3101
+2026-07-03,17:00,Vyttila,Weekday,5746
+2026-07-03,18:00,Vyttila,Weekday,5654
+2026-07-03,19:00,Vyttila,Weekday,4747
+2026-07-03,20:00,Vyttila,Weekday,5029
+2026-07-03,21:00,Vyttila,Weekday,1988
+2026-07-04,07:00,Aluva,Weekend,4167
+2026-07-04,08:00,Aluva,Weekend,4079
+2026-07-04,09:00,Aluva,Weekend,3885
+2026-07-04,10:00,Aluva,Weekend,2486
+2026-07-04,11:00,Aluva,Weekend,2245
+2026-07-04,12:00,Aluva,Weekend,2364
+2026-07-04,13:00,Aluva,Weekend,2532
+2026-07-04,14:00,Aluva,Weekend,2516
+2026-07-04,15:00,Aluva,Weekend,2373
+2026-07-04,16:00,Aluva,Weekend,2608
+2026-07-04,17:00,Aluva,Weekend,4722
+2026-07-04,18:00,Aluva,Weekend,4837
+2026-07-04,19:00,Aluva,Weekend,4224
+2026-07-04,20:00,Aluva,Weekend,4213
+2026-07-04,21:00,Aluva,Weekend,1617
+2026-07-04,07:00,Maharajas,Weekend,3697
+2026-07-04,08:00,Maharajas,Weekend,3797
+2026-07-04,09:00,Maharajas,Weekend,3573
+2026-07-04,10:00,Maharajas,Weekend,2101
+2026-07-04,11:00,Maharajas,Weekend,2379
+2026-07-04,12:00,Maharajas,Weekend,2140
+2026-07-04,13:00,Maharajas,Weekend,2074
+2026-07-04,14:00,Maharajas,Weekend,2047
+2026-07-04,15:00,Maharajas,Weekend,2052
+2026-07-04,16:00,Maharajas,Weekend,2446
+2026-07-04,17:00,Maharajas,Weekend,4253
+2026-07-04,18:00,Maharajas,Weekend,3968
+2026-07-04,19:00,Maharajas,Weekend,4142
+2026-07-04,20:00,Maharajas,Weekend,4244
+2026-07-04,21:00,Maharajas,Weekend,1591
+2026-07-04,07:00,Edappally,Weekend,3778
+2026-07-04,08:00,Edappally,Weekend,4148
+2026-07-04,09:00,Edappally,Weekend,3998
+2026-07-04,10:00,Edappally,Weekend,2501
+2026-07-04,11:00,Edappally,Weekend,2806
+2026-07-04,12:00,Edappally,Weekend,2668
+2026-07-04,13:00,Edappally,Weekend,2774
+2026-07-04,14:00,Edappally,Weekend,2731
+2026-07-04,15:00,Edappally,Weekend,2462
+2026-07-04,16:00,Edappally,Weekend,2358
+2026-07-04,17:00,Edappally,Weekend,4406
+2026-07-04,18:00,Edappally,Weekend,4250
+2026-07-04,19:00,Edappally,Weekend,4523
+2026-07-04,20:00,Edappally,Weekend,4794
+2026-07-04,21:00,Edappally,Weekend,1675
+2026-07-04,07:00,MG Road,Weekend,4328
+2026-07-04,08:00,MG Road,Weekend,4194
+2026-07-04,09:00,MG Road,Weekend,3989
+2026-07-04,10:00,MG Road,Weekend,2802
+2026-07-04,11:00,MG Road,Weekend,2877
+2026-07-04,12:00,MG Road,Weekend,2461
+2026-07-04,13:00,MG Road,Weekend,2659
+2026-07-04,14:00,MG Road,Weekend,2613
+2026-07-04,15:00,MG Road,Weekend,2482
+2026-07-04,16:00,MG Road,Weekend,2741
+2026-07-04,17:00,MG Road,Weekend,4509
+2026-07-04,18:00,MG Road,Weekend,4404
+2026-07-04,19:00,MG Road,Weekend,4780
+2026-07-04,20:00,MG Road,Weekend,5085
+2026-07-04,21:00,MG Road,Weekend,1760
+2026-07-04,07:00,Vyttila,Weekend,4009
+2026-07-04,08:00,Vyttila,Weekend,3690
+2026-07-04,09:00,Vyttila,Weekend,3601
+2026-07-04,10:00,Vyttila,Weekend,2152
+2026-07-04,11:00,Vyttila,Weekend,2257
+2026-07-04,12:00,Vyttila,Weekend,2244
+2026-07-04,13:00,Vyttila,Weekend,2305
+2026-07-04,14:00,Vyttila,Weekend,2319
+2026-07-04,15:00,Vyttila,Weekend,2153
+2026-07-04,16:00,Vyttila,Weekend,2137
+2026-07-04,17:00,Vyttila,Weekend,4476
+2026-07-04,18:00,Vyttila,Weekend,3904
+2026-07-04,19:00,Vyttila,Weekend,3781
+2026-07-04,20:00,Vyttila,Weekend,4127
+2026-07-04,21:00,Vyttila,Weekend,1771
+2026-07-05,07:00,Aluva,Weekend,4170
+2026-07-05,08:00,Aluva,Weekend,4135
+2026-07-05,09:00,Aluva,Weekend,3918
+2026-07-05,10:00,Aluva,Weekend,2399
+2026-07-05,11:00,Aluva,Weekend,2448
+2026-07-05,12:00,Aluva,Weekend,2365
+2026-07-05,13:00,Aluva,Weekend,2662
+2026-07-05,14:00,Aluva,Weekend,2602
+2026-07-05,15:00,Aluva,Weekend,2448
+2026-07-05,16:00,Aluva,Weekend,2264
+2026-07-05,17:00,Aluva,Weekend,4644
+2026-07-05,18:00,Aluva,Weekend,4037
+2026-07-05,19:00,Aluva,Weekend,4360
+2026-07-05,20:00,Aluva,Weekend,4432
+2026-07-05,21:00,Aluva,Weekend,1584
+2026-07-05,07:00,Maharajas,Weekend,3334
+2026-07-05,08:00,Maharajas,Weekend,3743
+2026-07-05,09:00,Maharajas,Weekend,3577
+2026-07-05,10:00,Maharajas,Weekend,2017
+2026-07-05,11:00,Maharajas,Weekend,2173
+2026-07-05,12:00,Maharajas,Weekend,2025
+2026-07-05,13:00,Maharajas,Weekend,2320
+2026-07-05,14:00,Maharajas,Weekend,2302
+2026-07-05,15:00,Maharajas,Weekend,2125
+2026-07-05,16:00,Maharajas,Weekend,2019
+2026-07-05,17:00,Maharajas,Weekend,4081
+2026-07-05,18:00,Maharajas,Weekend,4290
+2026-07-05,19:00,Maharajas,Weekend,3673
+2026-07-05,20:00,Maharajas,Weekend,4139
+2026-07-05,21:00,Maharajas,Weekend,1670
+2026-07-05,07:00,Edappally,Weekend,4219
+2026-07-05,08:00,Edappally,Weekend,4544
+2026-07-05,09:00,Edappally,Weekend,4179
+2026-07-05,10:00,Edappally,Weekend,2416
+2026-07-05,11:00,Edappally,Weekend,2780
+2026-07-05,12:00,Edappally,Weekend,2706
+2026-07-05,13:00,Edappally,Weekend,2368
+2026-07-05,14:00,Edappally,Weekend,2330
+2026-07-05,15:00,Edappally,Weekend,2573
+2026-07-05,16:00,Edappally,Weekend,2395
+2026-07-05,17:00,Edappally,Weekend,4469
+2026-07-05,18:00,Edappally,Weekend,4424
+2026-07-05,19:00,Edappally,Weekend,4301
+2026-07-05,20:00,Edappally,Weekend,4635
+2026-07-05,21:00,Edappally,Weekend,1910
+2026-07-05,07:00,MG Road,Weekend,4008
+2026-07-05,08:00,MG Road,Weekend,4122
+2026-07-05,09:00,MG Road,Weekend,3944
+2026-07-05,10:00,MG Road,Weekend,2798
+2026-07-05,11:00,MG Road,Weekend,2689
+2026-07-05,12:00,MG Road,Weekend,2584
+2026-07-05,13:00,MG Road,Weekend,2572
+2026-07-05,14:00,MG Road,Weekend,2716
+2026-07-05,15:00,MG Road,Weekend,2811
+2026-07-05,16:00,MG Road,Weekend,2586
+2026-07-05,17:00,MG Road,Weekend,5156
+2026-07-05,18:00,MG Road,Weekend,5162
+2026-07-05,19:00,MG Road,Weekend,4700
+2026-07-05,20:00,MG Road,Weekend,5182
+2026-07-05,21:00,MG Road,Weekend,2050
+2026-07-05,07:00,Vyttila,Weekend,3448
+2026-07-05,08:00,Vyttila,Weekend,3874
+2026-07-05,09:00,Vyttila,Weekend,4038
+2026-07-05,10:00,Vyttila,Weekend,2187
+2026-07-05,11:00,Vyttila,Weekend,2463
+2026-07-05,12:00,Vyttila,Weekend,2297
+2026-07-05,13:00,Vyttila,Weekend,2401
+2026-07-05,14:00,Vyttila,Weekend,2327
+2026-07-05,15:00,Vyttila,Weekend,2413
+2026-07-05,16:00,Vyttila,Weekend,2235
+2026-07-05,17:00,Vyttila,Weekend,4314
+2026-07-05,18:00,Vyttila,Weekend,4559
+2026-07-05,19:00,Vyttila,Weekend,4127
+2026-07-05,20:00,Vyttila,Weekend,3825
+2026-07-05,21:00,Vyttila,Weekend,1647
+2026-07-06,07:00,Aluva,Weekday,5099
+2026-07-06,08:00,Aluva,Weekday,4634
+2026-07-06,09:00,Aluva,Weekday,4566
+2026-07-06,10:00,Aluva,Weekday,2869
+2026-07-06,11:00,Aluva,Weekday,3387
+2026-07-06,12:00,Aluva,Weekday,3189
+2026-07-06,13:00,Aluva,Weekday,2853
+2026-07-06,14:00,Aluva,Weekday,3089
+2026-07-06,15:00,Aluva,Weekday,2983
+2026-07-06,16:00,Aluva,Weekday,3119
+2026-07-06,17:00,Aluva,Weekday,5446
+2026-07-06,18:00,Aluva,Weekday,5490
+2026-07-06,19:00,Aluva,Weekday,5547
+2026-07-06,20:00,Aluva,Weekday,4958
+2026-07-06,21:00,Aluva,Weekday,2265
+2026-07-06,07:00,Maharajas,Weekday,4486
+2026-07-06,08:00,Maharajas,Weekday,4664
+2026-07-06,09:00,Maharajas,Weekday,4749
+2026-07-06,10:00,Maharajas,Weekday,2572
+2026-07-06,11:00,Maharajas,Weekday,2811
+2026-07-06,12:00,Maharajas,Weekday,2617
+2026-07-06,13:00,Maharajas,Weekday,2553
+2026-07-06,14:00,Maharajas,Weekday,2968
+2026-07-06,15:00,Maharajas,Weekday,2986
+2026-07-06,16:00,Maharajas,Weekday,3035
+2026-07-06,17:00,Maharajas,Weekday,5246
+2026-07-06,18:00,Maharajas,Weekday,4823
+2026-07-06,19:00,Maharajas,Weekday,5299
+2026-07-06,20:00,Maharajas,Weekday,5478
+2026-07-06,21:00,Maharajas,Weekday,1984
+2026-07-06,07:00,Edappally,Weekday,4795
+2026-07-06,08:00,Edappally,Weekday,4990
+2026-07-06,09:00,Edappally,Weekday,5557
+2026-07-06,10:00,Edappally,Weekday,3508
+2026-07-06,11:00,Edappally,Weekday,3130
+2026-07-06,12:00,Edappally,Weekday,3513
+2026-07-06,13:00,Edappally,Weekday,3216
+2026-07-06,14:00,Edappally,Weekday,3326
+2026-07-06,15:00,Edappally,Weekday,3481
+2026-07-06,16:00,Edappally,Weekday,2952
+2026-07-06,17:00,Edappally,Weekday,5691
+2026-07-06,18:00,Edappally,Weekday,5532
+2026-07-06,19:00,Edappally,Weekday,5346
+2026-07-06,20:00,Edappally,Weekday,5627
+2026-07-06,21:00,Edappally,Weekday,2195
+2026-07-06,07:00,MG Road,Weekday,5378
+2026-07-06,08:00,MG Road,Weekday,5643
+2026-07-06,09:00,MG Road,Weekday,5096
+2026-07-06,10:00,MG Road,Weekday,3129
+2026-07-06,11:00,MG Road,Weekday,3248
+2026-07-06,12:00,MG Road,Weekday,3384
+2026-07-06,13:00,MG Road,Weekday,3448
+2026-07-06,14:00,MG Road,Weekday,3600
+2026-07-06,15:00,MG Road,Weekday,3625
+2026-07-06,16:00,MG Road,Weekday,3395
+2026-07-06,17:00,MG Road,Weekday,6159
+2026-07-06,18:00,MG Road,Weekday,6049
+2026-07-06,19:00,MG Road,Weekday,5809
+2026-07-06,20:00,MG Road,Weekday,5944
+2026-07-06,21:00,MG Road,Weekday,2201
+2026-07-06,07:00,Vyttila,Weekday,5010
+2026-07-06,08:00,Vyttila,Weekday,4328
+2026-07-06,09:00,Vyttila,Weekday,4408
+2026-07-06,10:00,Vyttila,Weekday,2887
+2026-07-06,11:00,Vyttila,Weekday,2673
+2026-07-06,12:00,Vyttila,Weekday,2716
+2026-07-06,13:00,Vyttila,Weekday,2940
+2026-07-06,14:00,Vyttila,Weekday,2922
+2026-07-06,15:00,Vyttila,Weekday,2922
+2026-07-06,16:00,Vyttila,Weekday,2888
+2026-07-06,17:00,Vyttila,Weekday,5080
+2026-07-06,18:00,Vyttila,Weekday,5688
+2026-07-06,19:00,Vyttila,Weekday,5261
+2026-07-06,20:00,Vyttila,Weekday,5074
+2026-07-06,21:00,Vyttila,Weekday,2066
+2026-07-07,07:00,Aluva,Weekday,4753
+2026-07-07,08:00,Aluva,Weekday,5343
+2026-07-07,09:00,Aluva,Weekday,4563
+2026-07-07,10:00,Aluva,Weekday,3007
+2026-07-07,11:00,Aluva,Weekday,3055
+2026-07-07,12:00,Aluva,Weekday,2855
+2026-07-07,13:00,Aluva,Weekday,3241
+2026-07-07,14:00,Aluva,Weekday,2947
+2026-07-07,15:00,Aluva,Weekday,3187
+2026-07-07,16:00,Aluva,Weekday,2883
+2026-07-07,17:00,Aluva,Weekday,5733
+2026-07-07,18:00,Aluva,Weekday,5750
+2026-07-07,19:00,Aluva,Weekday,5001
+2026-07-07,20:00,Aluva,Weekday,5965
+2026-07-07,21:00,Aluva,Weekday,2333
+2026-07-07,07:00,Maharajas,Weekday,4678
+2026-07-07,08:00,Maharajas,Weekday,4143
+2026-07-07,09:00,Maharajas,Weekday,4907
+2026-07-07,10:00,Maharajas,Weekday,2577
+2026-07-07,11:00,Maharajas,Weekday,2684
+2026-07-07,12:00,Maharajas,Weekday,2592
+2026-07-07,13:00,Maharajas,Weekday,2531
+2026-07-07,14:00,Maharajas,Weekday,2869
+2026-07-07,15:00,Maharajas,Weekday,3031
+2026-07-07,16:00,Maharajas,Weekday,2815
+2026-07-07,17:00,Maharajas,Weekday,4926
+2026-07-07,18:00,Maharajas,Weekday,4536
+2026-07-07,19:00,Maharajas,Weekday,4584
+2026-07-07,20:00,Maharajas,Weekday,5244
+2026-07-07,21:00,Maharajas,Weekday,1885
+2026-07-07,07:00,Edappally,Weekday,4802
+2026-07-07,08:00,Edappally,Weekday,4883
+2026-07-07,09:00,Edappally,Weekday,5052
+2026-07-07,10:00,Edappally,Weekday,3496
+2026-07-07,11:00,Edappally,Weekday,3444
+2026-07-07,12:00,Edappally,Weekday,3002
+2026-07-07,13:00,Edappally,Weekday,3470
+2026-07-07,14:00,Edappally,Weekday,3432
+2026-07-07,15:00,Edappally,Weekday,3338
+2026-07-07,16:00,Edappally,Weekday,3157
+2026-07-07,17:00,Edappally,Weekday,5353
+2026-07-07,18:00,Edappally,Weekday,5264
+2026-07-07,19:00,Edappally,Weekday,5420
+2026-07-07,20:00,Edappally,Weekday,5477
+2026-07-07,21:00,Edappally,Weekday,2286
+2026-07-07,07:00,MG Road,Weekday,4993
+2026-07-07,08:00,MG Road,Weekday,4931
+2026-07-07,09:00,MG Road,Weekday,5933
+2026-07-07,10:00,MG Road,Weekday,3089
+2026-07-07,11:00,MG Road,Weekday,3294
+2026-07-07,12:00,MG Road,Weekday,3061
+2026-07-07,13:00,MG Road,Weekday,3323
+2026-07-07,14:00,MG Road,Weekday,3147
+2026-07-07,15:00,MG Road,Weekday,3420
+2026-07-07,16:00,MG Road,Weekday,3437
+2026-07-07,17:00,MG Road,Weekday,5797
+2026-07-07,18:00,MG Road,Weekday,5490
+2026-07-07,19:00,MG Road,Weekday,6044
+2026-07-07,20:00,MG Road,Weekday,6352
+2026-07-07,21:00,MG Road,Weekday,2210
+2026-07-07,07:00,Vyttila,Weekday,4736
+2026-07-07,08:00,Vyttila,Weekday,4630
+2026-07-07,09:00,Vyttila,Weekday,4647
+2026-07-07,10:00,Vyttila,Weekday,2972
+2026-07-07,11:00,Vyttila,Weekday,3208
+2026-07-07,12:00,Vyttila,Weekday,3033
+2026-07-07,13:00,Vyttila,Weekday,2698
+2026-07-07,14:00,Vyttila,Weekday,2928
+2026-07-07,15:00,Vyttila,Weekday,3101
+2026-07-07,16:00,Vyttila,Weekday,2833
+2026-07-07,17:00,Vyttila,Weekday,5557
+2026-07-07,18:00,Vyttila,Weekday,5571
+2026-07-07,19:00,Vyttila,Weekday,5120
+2026-07-07,20:00,Vyttila,Weekday,4873
+2026-07-07,21:00,Vyttila,Weekday,2231
+2026-07-08,07:00,Aluva,Weekday,5061
+2026-07-08,08:00,Aluva,Weekday,4763
+2026-07-08,09:00,Aluva,Weekday,5378
+2026-07-08,10:00,Aluva,Weekday,3374
+2026-07-08,11:00,Aluva,Weekday,3015
+2026-07-08,12:00,Aluva,Weekday,3196
+2026-07-08,13:00,Aluva,Weekday,2905
+2026-07-08,14:00,Aluva,Weekday,3193
+2026-07-08,15:00,Aluva,Weekday,3206
+2026-07-08,16:00,Aluva,Weekday,2788
+2026-07-08,17:00,Aluva,Weekday,5854
+2026-07-08,18:00,Aluva,Weekday,5002
+2026-07-08,19:00,Aluva,Weekday,5977
+2026-07-08,20:00,Aluva,Weekday,5469
+2026-07-08,21:00,Aluva,Weekday,1992
+2026-07-08,07:00,Maharajas,Weekday,4426
+2026-07-08,08:00,Maharajas,Weekday,4232
+2026-07-08,09:00,Maharajas,Weekday,4922
+2026-07-08,10:00,Maharajas,Weekday,2996
+2026-07-08,11:00,Maharajas,Weekday,2661
+2026-07-08,12:00,Maharajas,Weekday,2546
+2026-07-08,13:00,Maharajas,Weekday,2555
+2026-07-08,14:00,Maharajas,Weekday,2801
+2026-07-08,15:00,Maharajas,Weekday,2769
+2026-07-08,16:00,Maharajas,Weekday,2570
+2026-07-08,17:00,Maharajas,Weekday,5288
+2026-07-08,18:00,Maharajas,Weekday,4946
+2026-07-08,19:00,Maharajas,Weekday,4502
+2026-07-08,20:00,Maharajas,Weekday,5183
+2026-07-08,21:00,Maharajas,Weekday,2112
+2026-07-08,07:00,Edappally,Weekday,4885
+2026-07-08,08:00,Edappally,Weekday,5183
+2026-07-08,09:00,Edappally,Weekday,4681
+2026-07-08,10:00,Edappally,Weekday,3124
+2026-07-08,11:00,Edappally,Weekday,2920
+2026-07-08,12:00,Edappally,Weekday,3120
+2026-07-08,13:00,Edappally,Weekday,3195
+2026-07-08,14:00,Edappally,Weekday,3275
+2026-07-08,15:00,Edappally,Weekday,3519
+2026-07-08,16:00,Edappally,Weekday,3499
+2026-07-08,17:00,Edappally,Weekday,6005
+2026-07-08,18:00,Edappally,Weekday,5512
+2026-07-08,19:00,Edappally,Weekday,6134
+2026-07-08,20:00,Edappally,Weekday,5529
+2026-07-08,21:00,Edappally,Weekday,2511
+2026-07-08,07:00,MG Road,Weekday,5785
+2026-07-08,08:00,MG Road,Weekday,5869
+2026-07-08,09:00,MG Road,Weekday,5586
+2026-07-08,10:00,MG Road,Weekday,3295
+2026-07-08,11:00,MG Road,Weekday,3610
+2026-07-08,12:00,MG Road,Weekday,3427
+2026-07-08,13:00,MG Road,Weekday,3346
+2026-07-08,14:00,MG Road,Weekday,3205
+2026-07-08,15:00,MG Road,Weekday,3217
+2026-07-08,16:00,MG Road,Weekday,3032
+2026-07-08,17:00,MG Road,Weekday,6450
+2026-07-08,18:00,MG Road,Weekday,5879
+2026-07-08,19:00,MG Road,Weekday,5410
+2026-07-08,20:00,MG Road,Weekday,5420
+2026-07-08,21:00,MG Road,Weekday,2193
+2026-07-08,07:00,Vyttila,Weekday,4749
+2026-07-08,08:00,Vyttila,Weekday,4531
+2026-07-08,09:00,Vyttila,Weekday,4913
+2026-07-08,10:00,Vyttila,Weekday,3215
+2026-07-08,11:00,Vyttila,Weekday,3110
+2026-07-08,12:00,Vyttila,Weekday,2852
+2026-07-08,13:00,Vyttila,Weekday,2698
+2026-07-08,14:00,Vyttila,Weekday,2812
+2026-07-08,15:00,Vyttila,Weekday,3163
+2026-07-08,16:00,Vyttila,Weekday,3177
+2026-07-08,17:00,Vyttila,Weekday,4826
+2026-07-08,18:00,Vyttila,Weekday,5166
+2026-07-08,19:00,Vyttila,Weekday,5003
+2026-07-08,20:00,Vyttila,Weekday,5716
+2026-07-08,21:00,Vyttila,Weekday,2077
+2026-07-09,07:00,Aluva,Weekday,5360
+2026-07-09,08:00,Aluva,Weekday,4739
+2026-07-09,09:00,Aluva,Weekday,4746
+2026-07-09,10:00,Aluva,Weekday,2830
+2026-07-09,11:00,Aluva,Weekday,2944
+2026-07-09,12:00,Aluva,Weekday,3128
+2026-07-09,13:00,Aluva,Weekday,2777
+2026-07-09,14:00,Aluva,Weekday,3362
+2026-07-09,15:00,Aluva,Weekday,3352
+2026-07-09,16:00,Aluva,Weekday,3131
+2026-07-09,17:00,Aluva,Weekday,5313
+2026-07-09,18:00,Aluva,Weekday,5818
+2026-07-09,19:00,Aluva,Weekday,5934
+2026-07-09,20:00,Aluva,Weekday,5149
+2026-07-09,21:00,Aluva,Weekday,2147
+2026-07-09,07:00,Maharajas,Weekday,4802
+2026-07-09,08:00,Maharajas,Weekday,4404
+2026-07-09,09:00,Maharajas,Weekday,4482
+2026-07-09,10:00,Maharajas,Weekday,2614
+2026-07-09,11:00,Maharajas,Weekday,2926
+2026-07-09,12:00,Maharajas,Weekday,3014
+2026-07-09,13:00,Maharajas,Weekday,3046
+2026-07-09,14:00,Maharajas,Weekday,2952
+2026-07-09,15:00,Maharajas,Weekday,2584
+2026-07-09,16:00,Maharajas,Weekday,3064
+2026-07-09,17:00,Maharajas,Weekday,4545
+2026-07-09,18:00,Maharajas,Weekday,5180
+2026-07-09,19:00,Maharajas,Weekday,5106
+2026-07-09,20:00,Maharajas,Weekday,5440
+2026-07-09,21:00,Maharajas,Weekday,1998
+2026-07-09,07:00,Edappally,Weekday,4749
+2026-07-09,08:00,Edappally,Weekday,5613
+2026-07-09,09:00,Edappally,Weekday,5496
+2026-07-09,10:00,Edappally,Weekday,3029
+2026-07-09,11:00,Edappally,Weekday,3270
+2026-07-09,12:00,Edappally,Weekday,3266
+2026-07-09,13:00,Edappally,Weekday,3325
+2026-07-09,14:00,Edappally,Weekday,3180
+2026-07-09,15:00,Edappally,Weekday,3244
+2026-07-09,16:00,Edappally,Weekday,3049
+2026-07-09,17:00,Edappally,Weekday,5777
+2026-07-09,18:00,Edappally,Weekday,6178
+2026-07-09,19:00,Edappally,Weekday,5690
+2026-07-09,20:00,Edappally,Weekday,5441
+2026-07-09,21:00,Edappally,Weekday,2446
+2026-07-09,07:00,MG Road,Weekday,5872
+2026-07-09,08:00,MG Road,Weekday,5918
+2026-07-09,09:00,MG Road,Weekday,5360
+2026-07-09,10:00,MG Road,Weekday,3503
+2026-07-09,11:00,MG Road,Weekday,3559
+2026-07-09,12:00,MG Road,Weekday,3088
+2026-07-09,13:00,MG Road,Weekday,3689
+2026-07-09,14:00,MG Road,Weekday,3463
+2026-07-09,15:00,MG Road,Weekday,3029
+2026-07-09,16:00,MG Road,Weekday,3423
+2026-07-09,17:00,MG Road,Weekday,5549
+2026-07-09,18:00,MG Road,Weekday,6501
+2026-07-09,19:00,MG Road,Weekday,5969
+2026-07-09,20:00,MG Road,Weekday,5831
+2026-07-09,21:00,MG Road,Weekday,2636
+2026-07-09,07:00,Vyttila,Weekday,4852
+2026-07-09,08:00,Vyttila,Weekday,5171
+2026-07-09,09:00,Vyttila,Weekday,4562
+2026-07-09,10:00,Vyttila,Weekday,2865
+2026-07-09,11:00,Vyttila,Weekday,2862
+2026-07-09,12:00,Vyttila,Weekday,3077
+2026-07-09,13:00,Vyttila,Weekday,2785
+2026-07-09,14:00,Vyttila,Weekday,3009
+2026-07-09,15:00,Vyttila,Weekday,3123
+2026-07-09,16:00,Vyttila,Weekday,3167
+2026-07-09,17:00,Vyttila,Weekday,4868
+2026-07-09,18:00,Vyttila,Weekday,5404
+2026-07-09,19:00,Vyttila,Weekday,4849
+2026-07-09,20:00,Vyttila,Weekday,5504
+2026-07-09,21:00,Vyttila,Weekday,2128
+2026-07-10,07:00,Aluva,Weekday,5255
+2026-07-10,08:00,Aluva,Weekday,4620
+2026-07-10,09:00,Aluva,Weekday,4464
+2026-07-10,10:00,Aluva,Weekday,3044
+2026-07-10,11:00,Aluva,Weekday,3264
+2026-07-10,12:00,Aluva,Weekday,3252
+2026-07-10,13:00,Aluva,Weekday,3147
+2026-07-10,14:00,Aluva,Weekday,3127
+2026-07-10,15:00,Aluva,Weekday,2772
+2026-07-10,16:00,Aluva,Weekday,2805
+2026-07-10,17:00,Aluva,Weekday,5388
+2026-07-10,18:00,Aluva,Weekday,5593
+2026-07-10,19:00,Aluva,Weekday,5364
+2026-07-10,20:00,Aluva,Weekday,4978
+2026-07-10,21:00,Aluva,Weekday,2013
+2026-07-10,07:00,Maharajas,Weekday,4732
+2026-07-10,08:00,Maharajas,Weekday,4189
+2026-07-10,09:00,Maharajas,Weekday,4855
+2026-07-10,10:00,Maharajas,Weekday,2666
+2026-07-10,11:00,Maharajas,Weekday,2687
+2026-07-10,12:00,Maharajas,Weekday,2953
+2026-07-10,13:00,Maharajas,Weekday,2700
+2026-07-10,14:00,Maharajas,Weekday,3026
+2026-07-10,15:00,Maharajas,Weekday,2808
+2026-07-10,16:00,Maharajas,Weekday,2639
+2026-07-10,17:00,Maharajas,Weekday,4538
+2026-07-10,18:00,Maharajas,Weekday,5290
+2026-07-10,19:00,Maharajas,Weekday,5361
+2026-07-10,20:00,Maharajas,Weekday,5331
+2026-07-10,21:00,Maharajas,Weekday,1882
+2026-07-10,07:00,Edappally,Weekday,4835
+2026-07-10,08:00,Edappally,Weekday,5393
+2026-07-10,09:00,Edappally,Weekday,4802
+2026-07-10,10:00,Edappally,Weekday,3087
+2026-07-10,11:00,Edappally,Weekday,2908
+2026-07-10,12:00,Edappally,Weekday,3134
+2026-07-10,13:00,Edappally,Weekday,3215
+2026-07-10,14:00,Edappally,Weekday,3004
+2026-07-10,15:00,Edappally,Weekday,2983
+2026-07-10,16:00,Edappally,Weekday,3470
+2026-07-10,17:00,Edappally,Weekday,5976
+2026-07-10,18:00,Edappally,Weekday,6101
+2026-07-10,19:00,Edappally,Weekday,5290
+2026-07-10,20:00,Edappally,Weekday,6296
+2026-07-10,21:00,Edappally,Weekday,2421
+2026-07-10,07:00,MG Road,Weekday,5813
+2026-07-10,08:00,MG Road,Weekday,5257
+2026-07-10,09:00,MG Road,Weekday,4896
+2026-07-10,10:00,MG Road,Weekday,3507
+2026-07-10,11:00,MG Road,Weekday,3281
+2026-07-10,12:00,MG Road,Weekday,3181
+2026-07-10,13:00,MG Road,Weekday,3048
+2026-07-10,14:00,MG Road,Weekday,3569
+2026-07-10,15:00,MG Road,Weekday,3559
+2026-07-10,16:00,MG Road,Weekday,3073
+2026-07-10,17:00,MG Road,Weekday,5846
+2026-07-10,18:00,MG Road,Weekday,6465
+2026-07-10,19:00,MG Road,Weekday,5996
+2026-07-10,20:00,MG Road,Weekday,6180
+2026-07-10,21:00,MG Road,Weekday,2594
+2026-07-10,07:00,Vyttila,Weekday,5156
+2026-07-10,08:00,Vyttila,Weekday,4357
+2026-07-10,09:00,Vyttila,Weekday,4692
+2026-07-10,10:00,Vyttila,Weekday,2731
+2026-07-10,11:00,Vyttila,Weekday,3048
+2026-07-10,12:00,Vyttila,Weekday,3035
+2026-07-10,13:00,Vyttila,Weekday,3037
+2026-07-10,14:00,Vyttila,Weekday,3035
+2026-07-10,15:00,Vyttila,Weekday,2890
+2026-07-10,16:00,Vyttila,Weekday,3184
+2026-07-10,17:00,Vyttila,Weekday,5170
+2026-07-10,18:00,Vyttila,Weekday,5254
+2026-07-10,19:00,Vyttila,Weekday,4876
+2026-07-10,20:00,Vyttila,Weekday,5314
+2026-07-10,21:00,Vyttila,Weekday,2231
+2026-07-11,07:00,Aluva,Weekend,3968
+2026-07-11,08:00,Aluva,Weekend,3886
+2026-07-11,09:00,Aluva,Weekend,3621
+2026-07-11,10:00,Aluva,Weekend,2358
+2026-07-11,11:00,Aluva,Weekend,2654
+2026-07-11,12:00,Aluva,Weekend,2405
+2026-07-11,13:00,Aluva,Weekend,2280
+2026-07-11,14:00,Aluva,Weekend,2574
+2026-07-11,15:00,Aluva,Weekend,2663
+2026-07-11,16:00,Aluva,Weekend,2340
+2026-07-11,17:00,Aluva,Weekend,4773
+2026-07-11,18:00,Aluva,Weekend,4401
+2026-07-11,19:00,Aluva,Weekend,4481
+2026-07-11,20:00,Aluva,Weekend,3960
+2026-07-11,21:00,Aluva,Weekend,1803
+2026-07-11,07:00,Maharajas,Weekend,3934
+2026-07-11,08:00,Maharajas,Weekend,3675
+2026-07-11,09:00,Maharajas,Weekend,3914
+2026-07-11,10:00,Maharajas,Weekend,2116
+2026-07-11,11:00,Maharajas,Weekend,2313
+2026-07-11,12:00,Maharajas,Weekend,2080
+2026-07-11,13:00,Maharajas,Weekend,2051
+2026-07-11,14:00,Maharajas,Weekend,2229
+2026-07-11,15:00,Maharajas,Weekend,2153
+2026-07-11,16:00,Maharajas,Weekend,2341
+2026-07-11,17:00,Maharajas,Weekend,4004
+2026-07-11,18:00,Maharajas,Weekend,3697
+2026-07-11,19:00,Maharajas,Weekend,4165
+2026-07-11,20:00,Maharajas,Weekend,4032
+2026-07-11,21:00,Maharajas,Weekend,1561
+2026-07-11,07:00,Edappally,Weekend,3882
+2026-07-11,08:00,Edappally,Weekend,3931
+2026-07-11,09:00,Edappally,Weekend,3988
+2026-07-11,10:00,Edappally,Weekend,2467
+2026-07-11,11:00,Edappally,Weekend,2394
+2026-07-11,12:00,Edappally,Weekend,2566
+2026-07-11,13:00,Edappally,Weekend,2655
+2026-07-11,14:00,Edappally,Weekend,2757
+2026-07-11,15:00,Edappally,Weekend,2389
+2026-07-11,16:00,Edappally,Weekend,2334
+2026-07-11,17:00,Edappally,Weekend,4628
+2026-07-11,18:00,Edappally,Weekend,4378
+2026-07-11,19:00,Edappally,Weekend,4626
+2026-07-11,20:00,Edappally,Weekend,5035
+2026-07-11,21:00,Edappally,Weekend,1965
+2026-07-11,07:00,MG Road,Weekend,4262
+2026-07-11,08:00,MG Road,Weekend,4374
+2026-07-11,09:00,MG Road,Weekend,4211
+2026-07-11,10:00,MG Road,Weekend,2728
+2026-07-11,11:00,MG Road,Weekend,2898
+2026-07-11,12:00,MG Road,Weekend,2952
+2026-07-11,13:00,MG Road,Weekend,2906
+2026-07-11,14:00,MG Road,Weekend,2714
+2026-07-11,15:00,MG Road,Weekend,2559
+2026-07-11,16:00,MG Road,Weekend,2952
+2026-07-11,17:00,MG Road,Weekend,5047
+2026-07-11,18:00,MG Road,Weekend,5167
+2026-07-11,19:00,MG Road,Weekend,5059
+2026-07-11,20:00,MG Road,Weekend,5268
+2026-07-11,21:00,MG Road,Weekend,1764
+2026-07-11,07:00,Vyttila,Weekend,4114
+2026-07-11,08:00,Vyttila,Weekend,3981
+2026-07-11,09:00,Vyttila,Weekend,3512
+2026-07-11,10:00,Vyttila,Weekend,2241
+2026-07-11,11:00,Vyttila,Weekend,2134
+2026-07-11,12:00,Vyttila,Weekend,2535
+2026-07-11,13:00,Vyttila,Weekend,2213
+2026-07-11,14:00,Vyttila,Weekend,2465
+2026-07-11,15:00,Vyttila,Weekend,2199
+2026-07-11,16:00,Vyttila,Weekend,2245
+2026-07-11,17:00,Vyttila,Weekend,3868
+2026-07-11,18:00,Vyttila,Weekend,4166
+2026-07-11,19:00,Vyttila,Weekend,3820
+2026-07-11,20:00,Vyttila,Weekend,4578
+2026-07-11,21:00,Vyttila,Weekend,1538
+2026-07-12,07:00,Aluva,Weekend,3891
+2026-07-12,08:00,Aluva,Weekend,4061
+2026-07-12,09:00,Aluva,Weekend,3906
+2026-07-12,10:00,Aluva,Weekend,2457
+2026-07-12,11:00,Aluva,Weekend,2276
+2026-07-12,12:00,Aluva,Weekend,2437
+2026-07-12,13:00,Aluva,Weekend,2582
+2026-07-12,14:00,Aluva,Weekend,2515
+2026-07-12,15:00,Aluva,Weekend,2594
+2026-07-12,16:00,Aluva,Weekend,2463
+2026-07-12,17:00,Aluva,Weekend,4248
+2026-07-12,18:00,Aluva,Weekend,4684
+2026-07-12,19:00,Aluva,Weekend,4753
+2026-07-12,20:00,Aluva,Weekend,4639
+2026-07-12,21:00,Aluva,Weekend,1732
+2026-07-12,07:00,Maharajas,Weekend,3800
+2026-07-12,08:00,Maharajas,Weekend,3794
+2026-07-12,09:00,Maharajas,Weekend,3722
+2026-07-12,10:00,Maharajas,Weekend,2067
+2026-07-12,11:00,Maharajas,Weekend,2274
+2026-07-12,12:00,Maharajas,Weekend,2107
+2026-07-12,13:00,Maharajas,Weekend,2221
+2026-07-12,14:00,Maharajas,Weekend,2422
+2026-07-12,15:00,Maharajas,Weekend,2165
+2026-07-12,16:00,Maharajas,Weekend,2422
+2026-07-12,17:00,Maharajas,Weekend,4065
+2026-07-12,18:00,Maharajas,Weekend,3658
+2026-07-12,19:00,Maharajas,Weekend,3719
+2026-07-12,20:00,Maharajas,Weekend,4272
+2026-07-12,21:00,Maharajas,Weekend,1708
+2026-07-12,07:00,Edappally,Weekend,4087
+2026-07-12,08:00,Edappally,Weekend,3987
+2026-07-12,09:00,Edappally,Weekend,4443
+2026-07-12,10:00,Edappally,Weekend,2423
+2026-07-12,11:00,Edappally,Weekend,2514
+2026-07-12,12:00,Edappally,Weekend,2637
+2026-07-12,13:00,Edappally,Weekend,2394
+2026-07-12,14:00,Edappally,Weekend,2679
+2026-07-12,15:00,Edappally,Weekend,2578
+2026-07-12,16:00,Edappally,Weekend,2526
+2026-07-12,17:00,Edappally,Weekend,4584
+2026-07-12,18:00,Edappally,Weekend,4852
+2026-07-12,19:00,Edappally,Weekend,4929
+2026-07-12,20:00,Edappally,Weekend,4760
+2026-07-12,21:00,Edappally,Weekend,1835
+2026-07-12,07:00,MG Road,Weekend,3893
+2026-07-12,08:00,MG Road,Weekend,4108
+2026-07-12,09:00,MG Road,Weekend,4009
+2026-07-12,10:00,MG Road,Weekend,2599
+2026-07-12,11:00,MG Road,Weekend,2788
+2026-07-12,12:00,MG Road,Weekend,2600
+2026-07-12,13:00,MG Road,Weekend,2947
+2026-07-12,14:00,MG Road,Weekend,2525
+2026-07-12,15:00,MG Road,Weekend,2783
+2026-07-12,16:00,MG Road,Weekend,2774
+2026-07-12,17:00,MG Road,Weekend,4555
+2026-07-12,18:00,MG Road,Weekend,5027
+2026-07-12,19:00,MG Road,Weekend,4413
+2026-07-12,20:00,MG Road,Weekend,4733
+2026-07-12,21:00,MG Road,Weekend,1756
+2026-07-12,07:00,Vyttila,Weekend,4059
+2026-07-12,08:00,Vyttila,Weekend,3674
+2026-07-12,09:00,Vyttila,Weekend,3532
+2026-07-12,10:00,Vyttila,Weekend,2266
+2026-07-12,11:00,Vyttila,Weekend,2339
+2026-07-12,12:00,Vyttila,Weekend,2194
+2026-07-12,13:00,Vyttila,Weekend,2478
+2026-07-12,14:00,Vyttila,Weekend,2251
+2026-07-12,15:00,Vyttila,Weekend,2291
+2026-07-12,16:00,Vyttila,Weekend,2452
+2026-07-12,17:00,Vyttila,Weekend,3800
+2026-07-12,18:00,Vyttila,Weekend,4367
+2026-07-12,19:00,Vyttila,Weekend,4343
+2026-07-12,20:00,Vyttila,Weekend,4559
+2026-07-12,21:00,Vyttila,Weekend,1544
+2026-07-13,07:00,Aluva,Weekday,4740
+2026-07-13,08:00,Aluva,Weekday,4720
+2026-07-13,09:00,Aluva,Weekday,4793
+2026-07-13,10:00,Aluva,Weekday,2901
+2026-07-13,11:00,Aluva,Weekday,2940
+2026-07-13,12:00,Aluva,Weekday,3018
+2026-07-13,13:00,Aluva,Weekday,3310
+2026-07-13,14:00,Aluva,Weekday,2867
+2026-07-13,15:00,Aluva,Weekday,3272
+2026-07-13,16:00,Aluva,Weekday,3305
+2026-07-13,17:00,Aluva,Weekday,5877
+2026-07-13,18:00,Aluva,Weekday,5857
+2026-07-13,19:00,Aluva,Weekday,5144
+2026-07-13,20:00,Aluva,Weekday,5897
+2026-07-13,21:00,Aluva,Weekday,2341
+2026-07-13,07:00,Maharajas,Weekday,4686
+2026-07-13,08:00,Maharajas,Weekday,4373
+2026-07-13,09:00,Maharajas,Weekday,4241
+2026-07-13,10:00,Maharajas,Weekday,2741
+2026-07-13,11:00,Maharajas,Weekday,2557
+2026-07-13,12:00,Maharajas,Weekday,2608
+2026-07-13,13:00,Maharajas,Weekday,2667
+2026-07-13,14:00,Maharajas,Weekday,2966
+2026-07-13,15:00,Maharajas,Weekday,2811
+2026-07-13,16:00,Maharajas,Weekday,2799
+2026-07-13,17:00,Maharajas,Weekday,4892
+2026-07-13,18:00,Maharajas,Weekday,4899
+2026-07-13,19:00,Maharajas,Weekday,5472
+2026-07-13,20:00,Maharajas,Weekday,4980
+2026-07-13,21:00,Maharajas,Weekday,2087
+2026-07-13,07:00,Edappally,Weekday,5631
+2026-07-13,08:00,Edappally,Weekday,5215
+2026-07-13,09:00,Edappally,Weekday,5266
+2026-07-13,10:00,Edappally,Weekday,3097
+2026-07-13,11:00,Edappally,Weekday,3407
+2026-07-13,12:00,Edappally,Weekday,3258
+2026-07-13,13:00,Edappally,Weekday,3498
+2026-07-13,14:00,Edappally,Weekday,3236
+2026-07-13,15:00,Edappally,Weekday,3206
+2026-07-13,16:00,Edappally,Weekday,2987
+2026-07-13,17:00,Edappally,Weekday,5883
+2026-07-13,18:00,Edappally,Weekday,6096
+2026-07-13,19:00,Edappally,Weekday,5731
+2026-07-13,20:00,Edappally,Weekday,5900
+2026-07-13,21:00,Edappally,Weekday,2160
+2026-07-13,07:00,MG Road,Weekday,5313
+2026-07-13,08:00,MG Road,Weekday,5656
+2026-07-13,09:00,MG Road,Weekday,5768
+2026-07-13,10:00,MG Road,Weekday,3412
+2026-07-13,11:00,MG Road,Weekday,3517
+2026-07-13,12:00,MG Road,Weekday,3639
+2026-07-13,13:00,MG Road,Weekday,3054
+2026-07-13,14:00,MG Road,Weekday,3273
+2026-07-13,15:00,MG Road,Weekday,3604
+2026-07-13,16:00,MG Road,Weekday,3671
+2026-07-13,17:00,MG Road,Weekday,5752
+2026-07-13,18:00,MG Road,Weekday,5754
+2026-07-13,19:00,MG Road,Weekday,5491
+2026-07-13,20:00,MG Road,Weekday,5475
+2026-07-13,21:00,MG Road,Weekday,2284
+2026-07-13,07:00,Vyttila,Weekday,4271
+2026-07-13,08:00,Vyttila,Weekday,4728
+2026-07-13,09:00,Vyttila,Weekday,4665
+2026-07-13,10:00,Vyttila,Weekday,3012
+2026-07-13,11:00,Vyttila,Weekday,3050
+2026-07-13,12:00,Vyttila,Weekday,2885
+2026-07-13,13:00,Vyttila,Weekday,3085
+2026-07-13,14:00,Vyttila,Weekday,3038
+2026-07-13,15:00,Vyttila,Weekday,3007
+2026-07-13,16:00,Vyttila,Weekday,2810
+2026-07-13,17:00,Vyttila,Weekday,4806
+2026-07-13,18:00,Vyttila,Weekday,5481
+2026-07-13,19:00,Vyttila,Weekday,4925
+2026-07-13,20:00,Vyttila,Weekday,5736
+2026-07-13,21:00,Vyttila,Weekday,2115
+2026-07-14,07:00,Aluva,Weekday,5439
+2026-07-14,08:00,Aluva,Weekday,4607
+2026-07-14,09:00,Aluva,Weekday,4846
+2026-07-14,10:00,Aluva,Weekday,3076
+2026-07-14,11:00,Aluva,Weekday,3317
+2026-07-14,12:00,Aluva,Weekday,2816
+2026-07-14,13:00,Aluva,Weekday,3225
+2026-07-14,14:00,Aluva,Weekday,3352
+2026-07-14,15:00,Aluva,Weekday,2904
+2026-07-14,16:00,Aluva,Weekday,2858
+2026-07-14,17:00,Aluva,Weekday,5346
+2026-07-14,18:00,Aluva,Weekday,5914
+2026-07-14,19:00,Aluva,Weekday,5776
+2026-07-14,20:00,Aluva,Weekday,5109
+2026-07-14,21:00,Aluva,Weekday,2110
+2026-07-14,07:00,Maharajas,Weekday,4902
+2026-07-14,08:00,Maharajas,Weekday,4213
+2026-07-14,09:00,Maharajas,Weekday,4696
+2026-07-14,10:00,Maharajas,Weekday,2691
+2026-07-14,11:00,Maharajas,Weekday,2648
+2026-07-14,12:00,Maharajas,Weekday,2924
+2026-07-14,13:00,Maharajas,Weekday,2831
+2026-07-14,14:00,Maharajas,Weekday,2602
+2026-07-14,15:00,Maharajas,Weekday,2858
+2026-07-14,16:00,Maharajas,Weekday,2621
+2026-07-14,17:00,Maharajas,Weekday,4793
+2026-07-14,18:00,Maharajas,Weekday,5061
+2026-07-14,19:00,Maharajas,Weekday,4789
+2026-07-14,20:00,Maharajas,Weekday,5106
+2026-07-14,21:00,Maharajas,Weekday,2149
+2026-07-14,07:00,Edappally,Weekday,5245
+2026-07-14,08:00,Edappally,Weekday,4853
+2026-07-14,09:00,Edappally,Weekday,4826
+2026-07-14,10:00,Edappally,Weekday,3351
+2026-07-14,11:00,Edappally,Weekday,3194
+2026-07-14,12:00,Edappally,Weekday,2997
+2026-07-14,13:00,Edappally,Weekday,3070
+2026-07-14,14:00,Edappally,Weekday,3472
+2026-07-14,15:00,Edappally,Weekday,3230
+2026-07-14,16:00,Edappally,Weekday,3105
+2026-07-14,17:00,Edappally,Weekday,5374
+2026-07-14,18:00,Edappally,Weekday,5921
+2026-07-14,19:00,Edappally,Weekday,5329
+2026-07-14,20:00,Edappally,Weekday,6307
+2026-07-14,21:00,Edappally,Weekday,2484
+2026-07-14,07:00,MG Road,Weekday,5876
+2026-07-14,08:00,MG Road,Weekday,5741
+2026-07-14,09:00,MG Road,Weekday,5760
+2026-07-14,10:00,MG Road,Weekday,3219
+2026-07-14,11:00,MG Road,Weekday,3518
+2026-07-14,12:00,MG Road,Weekday,3441
+2026-07-14,13:00,MG Road,Weekday,3478
+2026-07-14,14:00,MG Road,Weekday,3078
+2026-07-14,15:00,MG Road,Weekday,3431
+2026-07-14,16:00,MG Road,Weekday,3466
+2026-07-14,17:00,MG Road,Weekday,5554
+2026-07-14,18:00,MG Road,Weekday,6208
+2026-07-14,19:00,MG Road,Weekday,5824
+2026-07-14,20:00,MG Road,Weekday,5594
+2026-07-14,21:00,MG Road,Weekday,2456
+2026-07-14,07:00,Vyttila,Weekday,4321
+2026-07-14,08:00,Vyttila,Weekday,5087
+2026-07-14,09:00,Vyttila,Weekday,4318
+2026-07-14,10:00,Vyttila,Weekday,2701
+2026-07-14,11:00,Vyttila,Weekday,2746
+2026-07-14,12:00,Vyttila,Weekday,2757
+2026-07-14,13:00,Vyttila,Weekday,2728
+2026-07-14,14:00,Vyttila,Weekday,2881
+2026-07-14,15:00,Vyttila,Weekday,3204
+2026-07-14,16:00,Vyttila,Weekday,2908
+2026-07-14,17:00,Vyttila,Weekday,4803
+2026-07-14,18:00,Vyttila,Weekday,5678
+2026-07-14,19:00,Vyttila,Weekday,5261
+2026-07-14,20:00,Vyttila,Weekday,4987
+2026-07-14,21:00,Vyttila,Weekday,2053
+2026-07-15,07:00,Aluva,Weekday,5214
+2026-07-15,08:00,Aluva,Weekday,5051
+2026-07-15,09:00,Aluva,Weekday,5270
+2026-07-15,10:00,Aluva,Weekday,3021
+2026-07-15,11:00,Aluva,Weekday,3346
+2026-07-15,12:00,Aluva,Weekday,3221
+2026-07-15,13:00,Aluva,Weekday,3031
+2026-07-15,14:00,Aluva,Weekday,3050
+2026-07-15,15:00,Aluva,Weekday,3332
+2026-07-15,16:00,Aluva,Weekday,3134
+2026-07-15,17:00,Aluva,Weekday,5822
+2026-07-15,18:00,Aluva,Weekday,5254
+2026-07-15,19:00,Aluva,Weekday,5642
+2026-07-15,20:00,Aluva,Weekday,5229
+2026-07-15,21:00,Aluva,Weekday,2279
+2026-07-15,07:00,Maharajas,Weekday,4154
+2026-07-15,08:00,Maharajas,Weekday,4770
+2026-07-15,09:00,Maharajas,Weekday,4137
+2026-07-15,10:00,Maharajas,Weekday,2876
+2026-07-15,11:00,Maharajas,Weekday,2668
+2026-07-15,12:00,Maharajas,Weekday,2802
+2026-07-15,13:00,Maharajas,Weekday,2657
+2026-07-15,14:00,Maharajas,Weekday,2841
+2026-07-15,15:00,Maharajas,Weekday,2644
+2026-07-15,16:00,Maharajas,Weekday,2538
+2026-07-15,17:00,Maharajas,Weekday,5137
+2026-07-15,18:00,Maharajas,Weekday,5380
+2026-07-15,19:00,Maharajas,Weekday,4611
+2026-07-15,20:00,Maharajas,Weekday,5039
+2026-07-15,21:00,Maharajas,Weekday,1832
+2026-07-15,07:00,Edappally,Weekday,4925
+2026-07-15,08:00,Edappally,Weekday,5538
+2026-07-15,09:00,Edappally,Weekday,4736
+2026-07-15,10:00,Edappally,Weekday,3012
+2026-07-15,11:00,Edappally,Weekday,3246
+2026-07-15,12:00,Edappally,Weekday,3338
+2026-07-15,13:00,Edappally,Weekday,3469
+2026-07-15,14:00,Edappally,Weekday,3340
+2026-07-15,15:00,Edappally,Weekday,2973
+2026-07-15,16:00,Edappally,Weekday,3060
+2026-07-15,17:00,Edappally,Weekday,5414
+2026-07-15,18:00,Edappally,Weekday,5503
+2026-07-15,19:00,Edappally,Weekday,6108
+2026-07-15,20:00,Edappally,Weekday,5366
+2026-07-15,21:00,Edappally,Weekday,2298
+2026-07-15,07:00,MG Road,Weekday,5132
+2026-07-15,08:00,MG Road,Weekday,5119
+2026-07-15,09:00,MG Road,Weekday,5253
+2026-07-15,10:00,MG Road,Weekday,3113
+2026-07-15,11:00,MG Road,Weekday,3488
+2026-07-15,12:00,MG Road,Weekday,3618
+2026-07-15,13:00,MG Road,Weekday,3384
+2026-07-15,14:00,MG Road,Weekday,3613
+2026-07-15,15:00,MG Road,Weekday,3679
+2026-07-15,16:00,MG Road,Weekday,3407
+2026-07-15,17:00,MG Road,Weekday,5941
+2026-07-15,18:00,MG Road,Weekday,6375
+2026-07-15,19:00,MG Road,Weekday,6244
+2026-07-15,20:00,MG Road,Weekday,5835
+2026-07-15,21:00,MG Road,Weekday,2320
+2026-07-15,07:00,Vyttila,Weekday,4786
+2026-07-15,08:00,Vyttila,Weekday,5128
+2026-07-15,09:00,Vyttila,Weekday,4694
+2026-07-15,10:00,Vyttila,Weekday,3016
+2026-07-15,11:00,Vyttila,Weekday,2731
+2026-07-15,12:00,Vyttila,Weekday,2785
+2026-07-15,13:00,Vyttila,Weekday,2877
+2026-07-15,14:00,Vyttila,Weekday,2703
+2026-07-15,15:00,Vyttila,Weekday,2694
+2026-07-15,16:00,Vyttila,Weekday,2845
+2026-07-15,17:00,Vyttila,Weekday,5174
+2026-07-15,18:00,Vyttila,Weekday,5556
+2026-07-15,19:00,Vyttila,Weekday,5568
+2026-07-15,20:00,Vyttila,Weekday,5258
+2026-07-15,21:00,Vyttila,Weekday,2276
+2026-07-16,07:00,Aluva,Weekday,5083
+2026-07-16,08:00,Aluva,Weekday,4746
+2026-07-16,09:00,Aluva,Weekday,5255
+2026-07-16,10:00,Aluva,Weekday,3035
+2026-07-16,11:00,Aluva,Weekday,3160
+2026-07-16,12:00,Aluva,Weekday,3387
+2026-07-16,13:00,Aluva,Weekday,3121
+2026-07-16,14:00,Aluva,Weekday,2802
+2026-07-16,15:00,Aluva,Weekday,3168
+2026-07-16,16:00,Aluva,Weekday,2951
+2026-07-16,17:00,Aluva,Weekday,5690
+2026-07-16,18:00,Aluva,Weekday,6025
+2026-07-16,19:00,Aluva,Weekday,5916
+2026-07-16,20:00,Aluva,Weekday,5676
+2026-07-16,21:00,Aluva,Weekday,2086
+2026-07-16,07:00,Maharajas,Weekday,4222
+2026-07-16,08:00,Maharajas,Weekday,4135
+2026-07-16,09:00,Maharajas,Weekday,4543
+2026-07-16,10:00,Maharajas,Weekday,2557
+2026-07-16,11:00,Maharajas,Weekday,2631
+2026-07-16,12:00,Maharajas,Weekday,2995
+2026-07-16,13:00,Maharajas,Weekday,2635
+2026-07-16,14:00,Maharajas,Weekday,2851
+2026-07-16,15:00,Maharajas,Weekday,2584
+2026-07-16,16:00,Maharajas,Weekday,2649
+2026-07-16,17:00,Maharajas,Weekday,4812
+2026-07-16,18:00,Maharajas,Weekday,5096
+2026-07-16,19:00,Maharajas,Weekday,5460
+2026-07-16,20:00,Maharajas,Weekday,4677
+2026-07-16,21:00,Maharajas,Weekday,2176
+2026-07-16,07:00,Edappally,Weekday,5386
+2026-07-16,08:00,Edappally,Weekday,4997
+2026-07-16,09:00,Edappally,Weekday,5304
+2026-07-16,10:00,Edappally,Weekday,2998
+2026-07-16,11:00,Edappally,Weekday,3509
+2026-07-16,12:00,Edappally,Weekday,3023
+2026-07-16,13:00,Edappally,Weekday,3343
+2026-07-16,14:00,Edappally,Weekday,3516
+2026-07-16,15:00,Edappally,Weekday,2998
+2026-07-16,16:00,Edappally,Weekday,3311
+2026-07-16,17:00,Edappally,Weekday,6016
+2026-07-16,18:00,Edappally,Weekday,5259
+2026-07-16,19:00,Edappally,Weekday,5817
+2026-07-16,20:00,Edappally,Weekday,5272
+2026-07-16,21:00,Edappally,Weekday,2131
+2026-07-16,07:00,MG Road,Weekday,5816
+2026-07-16,08:00,MG Road,Weekday,5518
+2026-07-16,09:00,MG Road,Weekday,4941
+2026-07-16,10:00,MG Road,Weekday,3331
+2026-07-16,11:00,MG Road,Weekday,3344
+2026-07-16,12:00,MG Road,Weekday,3205
+2026-07-16,13:00,MG Road,Weekday,3111
+2026-07-16,14:00,MG Road,Weekday,3063
+2026-07-16,15:00,MG Road,Weekday,3313
+2026-07-16,16:00,MG Road,Weekday,3340
+2026-07-16,17:00,MG Road,Weekday,6493
+2026-07-16,18:00,MG Road,Weekday,6394
+2026-07-16,19:00,MG Road,Weekday,6415
+2026-07-16,20:00,MG Road,Weekday,6352
+2026-07-16,21:00,MG Road,Weekday,2241
+2026-07-16,07:00,Vyttila,Weekday,5008
+2026-07-16,08:00,Vyttila,Weekday,4535
+2026-07-16,09:00,Vyttila,Weekday,5092
+2026-07-16,10:00,Vyttila,Weekday,2722
+2026-07-16,11:00,Vyttila,Weekday,2745
+2026-07-16,12:00,Vyttila,Weekday,2852
+2026-07-16,13:00,Vyttila,Weekday,2949
+2026-07-16,14:00,Vyttila,Weekday,2894
+2026-07-16,15:00,Vyttila,Weekday,3135
+2026-07-16,16:00,Vyttila,Weekday,2775
+2026-07-16,17:00,Vyttila,Weekday,4928
+2026-07-16,18:00,Vyttila,Weekday,4825
+2026-07-16,19:00,Vyttila,Weekday,4789
+2026-07-16,20:00,Vyttila,Weekday,5012
+2026-07-16,21:00,Vyttila,Weekday,2111
+2026-07-17,07:00,Aluva,Weekday,5171
+2026-07-17,08:00,Aluva,Weekday,5376
+2026-07-17,09:00,Aluva,Weekday,5049
+2026-07-17,10:00,Aluva,Weekday,3032
+2026-07-17,11:00,Aluva,Weekday,2841
+2026-07-17,12:00,Aluva,Weekday,3152
+2026-07-17,13:00,Aluva,Weekday,3137
+2026-07-17,14:00,Aluva,Weekday,3064
+2026-07-17,15:00,Aluva,Weekday,3219
+2026-07-17,16:00,Aluva,Weekday,3014
+2026-07-17,17:00,Aluva,Weekday,4951
+2026-07-17,18:00,Aluva,Weekday,5950
+2026-07-17,19:00,Aluva,Weekday,5510
+2026-07-17,20:00,Aluva,Weekday,5716
+2026-07-17,21:00,Aluva,Weekday,2291
+2026-07-17,07:00,Maharajas,Weekday,4216
+2026-07-17,08:00,Maharajas,Weekday,4904
+2026-07-17,09:00,Maharajas,Weekday,4082
+2026-07-17,10:00,Maharajas,Weekday,2762
+2026-07-17,11:00,Maharajas,Weekday,2599
+2026-07-17,12:00,Maharajas,Weekday,2776
+2026-07-17,13:00,Maharajas,Weekday,2839
+2026-07-17,14:00,Maharajas,Weekday,2945
+2026-07-17,15:00,Maharajas,Weekday,2535
+2026-07-17,16:00,Maharajas,Weekday,2553
+2026-07-17,17:00,Maharajas,Weekday,5006
+2026-07-17,18:00,Maharajas,Weekday,4837
+2026-07-17,19:00,Maharajas,Weekday,5288
+2026-07-17,20:00,Maharajas,Weekday,4668
+2026-07-17,21:00,Maharajas,Weekday,1824
+2026-07-17,07:00,Edappally,Weekday,5136
+2026-07-17,08:00,Edappally,Weekday,5553
+2026-07-17,09:00,Edappally,Weekday,5241
+2026-07-17,10:00,Edappally,Weekday,3450
+2026-07-17,11:00,Edappally,Weekday,3473
+2026-07-17,12:00,Edappally,Weekday,3471
+2026-07-17,13:00,Edappally,Weekday,3245
+2026-07-17,14:00,Edappally,Weekday,3394
+2026-07-17,15:00,Edappally,Weekday,3091
+2026-07-17,16:00,Edappally,Weekday,3310
+2026-07-17,17:00,Edappally,Weekday,5412
+2026-07-17,18:00,Edappally,Weekday,5214
+2026-07-17,19:00,Edappally,Weekday,5473
+2026-07-17,20:00,Edappally,Weekday,6259
+2026-07-17,21:00,Edappally,Weekday,2317
+2026-07-17,07:00,MG Road,Weekday,5220
+2026-07-17,08:00,MG Road,Weekday,5032
+2026-07-17,09:00,MG Road,Weekday,5587
+2026-07-17,10:00,MG Road,Weekday,3388
+2026-07-17,11:00,MG Road,Weekday,3033
+2026-07-17,12:00,MG Road,Weekday,3028
+2026-07-17,13:00,MG Road,Weekday,3439
+2026-07-17,14:00,MG Road,Weekday,3596
+2026-07-17,15:00,MG Road,Weekday,3120
+2026-07-17,16:00,MG Road,Weekday,3446
+2026-07-17,17:00,MG Road,Weekday,6479
+2026-07-17,18:00,MG Road,Weekday,6206
+2026-07-17,19:00,MG Road,Weekday,6476
+2026-07-17,20:00,MG Road,Weekday,6571
+2026-07-17,21:00,MG Road,Weekday,2437
+2026-07-17,07:00,Vyttila,Weekday,4976
+2026-07-17,08:00,Vyttila,Weekday,5044
+2026-07-17,09:00,Vyttila,Weekday,5046
+2026-07-17,10:00,Vyttila,Weekday,3098
+2026-07-17,11:00,Vyttila,Weekday,2903
+2026-07-17,12:00,Vyttila,Weekday,2958
+2026-07-17,13:00,Vyttila,Weekday,2849
+2026-07-17,14:00,Vyttila,Weekday,2958
+2026-07-17,15:00,Vyttila,Weekday,3196
+2026-07-17,16:00,Vyttila,Weekday,3021
+2026-07-17,17:00,Vyttila,Weekday,5314
+2026-07-17,18:00,Vyttila,Weekday,5392
+2026-07-17,19:00,Vyttila,Weekday,5441
+2026-07-17,20:00,Vyttila,Weekday,5404
+2026-07-17,21:00,Vyttila,Weekday,2211
+2026-07-18,07:00,Aluva,Weekend,3808
+2026-07-18,08:00,Aluva,Weekend,3631
+2026-07-18,09:00,Aluva,Weekend,3635
+2026-07-18,10:00,Aluva,Weekend,2644
+2026-07-18,11:00,Aluva,Weekend,2282
+2026-07-18,12:00,Aluva,Weekend,2375
+2026-07-18,13:00,Aluva,Weekend,2664
+2026-07-18,14:00,Aluva,Weekend,2249
+2026-07-18,15:00,Aluva,Weekend,2353
+2026-07-18,16:00,Aluva,Weekend,2416
+2026-07-18,17:00,Aluva,Weekend,4392
+2026-07-18,18:00,Aluva,Weekend,4073
+2026-07-18,19:00,Aluva,Weekend,4236
+2026-07-18,20:00,Aluva,Weekend,4634
+2026-07-18,21:00,Aluva,Weekend,1709
+2026-07-18,07:00,Maharajas,Weekend,3827
+2026-07-18,08:00,Maharajas,Weekend,3746
+2026-07-18,09:00,Maharajas,Weekend,3754
+2026-07-18,10:00,Maharajas,Weekend,2140
+2026-07-18,11:00,Maharajas,Weekend,2079
+2026-07-18,12:00,Maharajas,Weekend,2126
+2026-07-18,13:00,Maharajas,Weekend,2311
+2026-07-18,14:00,Maharajas,Weekend,2173
+2026-07-18,15:00,Maharajas,Weekend,2282
+2026-07-18,16:00,Maharajas,Weekend,2041
+2026-07-18,17:00,Maharajas,Weekend,4072
+2026-07-18,18:00,Maharajas,Weekend,3643
+2026-07-18,19:00,Maharajas,Weekend,3713
+2026-07-18,20:00,Maharajas,Weekend,3851
+2026-07-18,21:00,Maharajas,Weekend,1694
+2026-07-18,07:00,Edappally,Weekend,4063
+2026-07-18,08:00,Edappally,Weekend,4543
+2026-07-18,09:00,Edappally,Weekend,4324
+2026-07-18,10:00,Edappally,Weekend,2374
+2026-07-18,11:00,Edappally,Weekend,2417
+2026-07-18,12:00,Edappally,Weekend,2336
+2026-07-18,13:00,Edappally,Weekend,2739
+2026-07-18,14:00,Edappally,Weekend,2685
+2026-07-18,15:00,Edappally,Weekend,2381
+2026-07-18,16:00,Edappally,Weekend,2361
+2026-07-18,17:00,Edappally,Weekend,4299
+2026-07-18,18:00,Edappally,Weekend,4207
+2026-07-18,19:00,Edappally,Weekend,4496
+2026-07-18,20:00,Edappally,Weekend,4524
+2026-07-18,21:00,Edappally,Weekend,1917
+2026-07-18,07:00,MG Road,Weekend,3976
+2026-07-18,08:00,MG Road,Weekend,4449
+2026-07-18,09:00,MG Road,Weekend,4718
+2026-07-18,10:00,MG Road,Weekend,2593
+2026-07-18,11:00,MG Road,Weekend,2798
+2026-07-18,12:00,MG Road,Weekend,2558
+2026-07-18,13:00,MG Road,Weekend,2748
+2026-07-18,14:00,MG Road,Weekend,2952
+2026-07-18,15:00,MG Road,Weekend,2469
+2026-07-18,16:00,MG Road,Weekend,2775
+2026-07-18,17:00,MG Road,Weekend,4669
+2026-07-18,18:00,MG Road,Weekend,4745
+2026-07-18,19:00,MG Road,Weekend,5114
+2026-07-18,20:00,MG Road,Weekend,4338
+2026-07-18,21:00,MG Road,Weekend,2032
+2026-07-18,07:00,Vyttila,Weekend,4150
+2026-07-18,08:00,Vyttila,Weekend,3581
+2026-07-18,09:00,Vyttila,Weekend,3415
+2026-07-18,10:00,Vyttila,Weekend,2258
+2026-07-18,11:00,Vyttila,Weekend,2234
+2026-07-18,12:00,Vyttila,Weekend,2522
+2026-07-18,13:00,Vyttila,Weekend,2578
+2026-07-18,14:00,Vyttila,Weekend,2125
+2026-07-18,15:00,Vyttila,Weekend,2292
+2026-07-18,16:00,Vyttila,Weekend,2505
+2026-07-18,17:00,Vyttila,Weekend,4010
+2026-07-18,18:00,Vyttila,Weekend,4564
+2026-07-18,19:00,Vyttila,Weekend,4294
+2026-07-18,20:00,Vyttila,Weekend,4437
+2026-07-18,21:00,Vyttila,Weekend,1612
+2026-07-19,07:00,Aluva,Weekend,3642
+2026-07-19,08:00,Aluva,Weekend,3919
+2026-07-19,09:00,Aluva,Weekend,3727
+2026-07-19,10:00,Aluva,Weekend,2616
+2026-07-19,11:00,Aluva,Weekend,2261
+2026-07-19,12:00,Aluva,Weekend,2309
+2026-07-19,13:00,Aluva,Weekend,2401
+2026-07-19,14:00,Aluva,Weekend,2278
+2026-07-19,15:00,Aluva,Weekend,2468
+2026-07-19,16:00,Aluva,Weekend,2633
+2026-07-19,17:00,Aluva,Weekend,4365
+2026-07-19,18:00,Aluva,Weekend,4742
+2026-07-19,19:00,Aluva,Weekend,4749
+2026-07-19,20:00,Aluva,Weekend,4705
+2026-07-19,21:00,Aluva,Weekend,1782
+2026-07-19,07:00,Maharajas,Weekend,3375
+2026-07-19,08:00,Maharajas,Weekend,3620
+2026-07-19,09:00,Maharajas,Weekend,3454
+2026-07-19,10:00,Maharajas,Weekend,2187
+2026-07-19,11:00,Maharajas,Weekend,2276
+2026-07-19,12:00,Maharajas,Weekend,2247
+2026-07-19,13:00,Maharajas,Weekend,2123
+2026-07-19,14:00,Maharajas,Weekend,2451
+2026-07-19,15:00,Maharajas,Weekend,2087
+2026-07-19,16:00,Maharajas,Weekend,2316
+2026-07-19,17:00,Maharajas,Weekend,4050
+2026-07-19,18:00,Maharajas,Weekend,3664
+2026-07-19,19:00,Maharajas,Weekend,4132
+2026-07-19,20:00,Maharajas,Weekend,3606
+2026-07-19,21:00,Maharajas,Weekend,1747
+2026-07-19,07:00,Edappally,Weekend,4295
+2026-07-19,08:00,Edappally,Weekend,4085
+2026-07-19,09:00,Edappally,Weekend,3993
+2026-07-19,10:00,Edappally,Weekend,2665
+2026-07-19,11:00,Edappally,Weekend,2748
+2026-07-19,12:00,Edappally,Weekend,2322
+2026-07-19,13:00,Edappally,Weekend,2386
+2026-07-19,14:00,Edappally,Weekend,2813
+2026-07-19,15:00,Edappally,Weekend,2383
+2026-07-19,16:00,Edappally,Weekend,2526
+2026-07-19,17:00,Edappally,Weekend,4807
+2026-07-19,18:00,Edappally,Weekend,4466
+2026-07-19,19:00,Edappally,Weekend,4350
+2026-07-19,20:00,Edappally,Weekend,4211
+2026-07-19,21:00,Edappally,Weekend,1950
+2026-07-19,07:00,MG Road,Weekend,4406
+2026-07-19,08:00,MG Road,Weekend,4629
+2026-07-19,09:00,MG Road,Weekend,3897
+2026-07-19,10:00,MG Road,Weekend,2837
+2026-07-19,11:00,MG Road,Weekend,2877
+2026-07-19,12:00,MG Road,Weekend,2854
+2026-07-19,13:00,MG Road,Weekend,2712
+2026-07-19,14:00,MG Road,Weekend,2830
+2026-07-19,15:00,MG Road,Weekend,2626
+2026-07-19,16:00,MG Road,Weekend,2570
+2026-07-19,17:00,MG Road,Weekend,5182
+2026-07-19,18:00,MG Road,Weekend,4959
+2026-07-19,19:00,MG Road,Weekend,5146
+2026-07-19,20:00,MG Road,Weekend,5237
+2026-07-19,21:00,MG Road,Weekend,1985
+2026-07-19,07:00,Vyttila,Weekend,4029
+2026-07-19,08:00,Vyttila,Weekend,3967
+2026-07-19,09:00,Vyttila,Weekend,3681
+2026-07-19,10:00,Vyttila,Weekend,2502
+2026-07-19,11:00,Vyttila,Weekend,2160
+2026-07-19,12:00,Vyttila,Weekend,2413
+2026-07-19,13:00,Vyttila,Weekend,2139
+2026-07-19,14:00,Vyttila,Weekend,2465
+2026-07-19,15:00,Vyttila,Weekend,2288
+2026-07-19,16:00,Vyttila,Weekend,2532
+2026-07-19,17:00,Vyttila,Weekend,4135
+2026-07-19,18:00,Vyttila,Weekend,4469
+2026-07-19,19:00,Vyttila,Weekend,3973
+2026-07-19,20:00,Vyttila,Weekend,3922
+2026-07-19,21:00,Vyttila,Weekend,1568
+2026-07-20,07:00,Aluva,Weekday,5358
+2026-07-20,08:00,Aluva,Weekday,4822
+2026-07-20,09:00,Aluva,Weekday,5174
+2026-07-20,10:00,Aluva,Weekday,3195
+2026-07-20,11:00,Aluva,Weekday,3001
+2026-07-20,12:00,Aluva,Weekday,3042
+2026-07-20,13:00,Aluva,Weekday,3119
+2026-07-20,14:00,Aluva,Weekday,2966
+2026-07-20,15:00,Aluva,Weekday,3095
+2026-07-20,16:00,Aluva,Weekday,2783
+2026-07-20,17:00,Aluva,Weekday,5888
+2026-07-20,18:00,Aluva,Weekday,5078
+2026-07-20,19:00,Aluva,Weekday,5421
+2026-07-20,20:00,Aluva,Weekday,5018
+2026-07-20,21:00,Aluva,Weekday,2372
+2026-07-20,07:00,Maharajas,Weekday,4797
+2026-07-20,08:00,Maharajas,Weekday,4467
+2026-07-20,09:00,Maharajas,Weekday,4618
+2026-07-20,10:00,Maharajas,Weekday,2955
+2026-07-20,11:00,Maharajas,Weekday,2930
+2026-07-20,12:00,Maharajas,Weekday,2701
+2026-07-20,13:00,Maharajas,Weekday,3008
+2026-07-20,14:00,Maharajas,Weekday,2996
+2026-07-20,15:00,Maharajas,Weekday,2570
+2026-07-20,16:00,Maharajas,Weekday,2780
+2026-07-20,17:00,Maharajas,Weekday,4916
+2026-07-20,18:00,Maharajas,Weekday,5426
+2026-07-20,19:00,Maharajas,Weekday,5361
+2026-07-20,20:00,Maharajas,Weekday,5247
+2026-07-20,21:00,Maharajas,Weekday,2077
+2026-07-20,07:00,Edappally,Weekday,5382
+2026-07-20,08:00,Edappally,Weekday,4757
+2026-07-20,09:00,Edappally,Weekday,4748
+2026-07-20,10:00,Edappally,Weekday,3024
+2026-07-20,11:00,Edappally,Weekday,3372
+2026-07-20,12:00,Edappally,Weekday,3514
+2026-07-20,13:00,Edappally,Weekday,3447
+2026-07-20,14:00,Edappally,Weekday,3037
+2026-07-20,15:00,Edappally,Weekday,3110
+2026-07-20,16:00,Edappally,Weekday,3108
+2026-07-20,17:00,Edappally,Weekday,6299
+2026-07-20,18:00,Edappally,Weekday,5964
+2026-07-20,19:00,Edappally,Weekday,5730
+2026-07-20,20:00,Edappally,Weekday,5618
+2026-07-20,21:00,Edappally,Weekday,2293
+2026-07-20,07:00,MG Road,Weekday,5789
+2026-07-20,08:00,MG Road,Weekday,5486
+2026-07-20,09:00,MG Road,Weekday,5396
+2026-07-20,10:00,MG Road,Weekday,3209
+2026-07-20,11:00,MG Road,Weekday,3306
+2026-07-20,12:00,MG Road,Weekday,3630
+2026-07-20,13:00,MG Road,Weekday,3518
+2026-07-20,14:00,MG Road,Weekday,3168
+2026-07-20,15:00,MG Road,Weekday,3112
+2026-07-20,16:00,MG Road,Weekday,3314
+2026-07-20,17:00,MG Road,Weekday,5404
+2026-07-20,18:00,MG Road,Weekday,6493
+2026-07-20,19:00,MG Road,Weekday,6074
+2026-07-20,20:00,MG Road,Weekday,6064
+2026-07-20,21:00,MG Road,Weekday,2623
+2026-07-20,07:00,Vyttila,Weekday,4440
+2026-07-20,08:00,Vyttila,Weekday,5100
+2026-07-20,09:00,Vyttila,Weekday,4351
+2026-07-20,10:00,Vyttila,Weekday,2939
+2026-07-20,11:00,Vyttila,Weekday,2660
+2026-07-20,12:00,Vyttila,Weekday,2996
+2026-07-20,13:00,Vyttila,Weekday,2700
+2026-07-20,14:00,Vyttila,Weekday,3014
+2026-07-20,15:00,Vyttila,Weekday,2986
+2026-07-20,16:00,Vyttila,Weekday,3005
+2026-07-20,17:00,Vyttila,Weekday,5187
+2026-07-20,18:00,Vyttila,Weekday,5351
+2026-07-20,19:00,Vyttila,Weekday,4842
+2026-07-20,20:00,Vyttila,Weekday,5414
+2026-07-20,21:00,Vyttila,Weekday,2147
+2026-07-21,07:00,Aluva,Weekday,4893
+2026-07-21,08:00,Aluva,Weekday,5070
+2026-07-21,09:00,Aluva,Weekday,5181
+2026-07-21,10:00,Aluva,Weekday,3154
+2026-07-21,11:00,Aluva,Weekday,3006
+2026-07-21,12:00,Aluva,Weekday,3137
+2026-07-21,13:00,Aluva,Weekday,3248
+2026-07-21,14:00,Aluva,Weekday,2944
+2026-07-21,15:00,Aluva,Weekday,3117
+2026-07-21,16:00,Aluva,Weekday,3238
+2026-07-21,17:00,Aluva,Weekday,6008
+2026-07-21,18:00,Aluva,Weekday,6040
+2026-07-21,19:00,Aluva,Weekday,5004
+2026-07-21,20:00,Aluva,Weekday,5611
+2026-07-21,21:00,Aluva,Weekday,2060
+2026-07-21,07:00,Maharajas,Weekday,4129
+2026-07-21,08:00,Maharajas,Weekday,4606
+2026-07-21,09:00,Maharajas,Weekday,4440
+2026-07-21,10:00,Maharajas,Weekday,2658
+2026-07-21,11:00,Maharajas,Weekday,2884
+2026-07-21,12:00,Maharajas,Weekday,2618
+2026-07-21,13:00,Maharajas,Weekday,2844
+2026-07-21,14:00,Maharajas,Weekday,2657
+2026-07-21,15:00,Maharajas,Weekday,2675
+2026-07-21,16:00,Maharajas,Weekday,2724
+2026-07-21,17:00,Maharajas,Weekday,4758
+2026-07-21,18:00,Maharajas,Weekday,4929
+2026-07-21,19:00,Maharajas,Weekday,5360
+2026-07-21,20:00,Maharajas,Weekday,4828
+2026-07-21,21:00,Maharajas,Weekday,1932
+2026-07-21,07:00,Edappally,Weekday,5585
+2026-07-21,08:00,Edappally,Weekday,5300
+2026-07-21,09:00,Edappally,Weekday,5348
+2026-07-21,10:00,Edappally,Weekday,3069
+2026-07-21,11:00,Edappally,Weekday,3503
+2026-07-21,12:00,Edappally,Weekday,3283
+2026-07-21,13:00,Edappally,Weekday,3399
+2026-07-21,14:00,Edappally,Weekday,3107
+2026-07-21,15:00,Edappally,Weekday,3278
+2026-07-21,16:00,Edappally,Weekday,3079
+2026-07-21,17:00,Edappally,Weekday,6006
+2026-07-21,18:00,Edappally,Weekday,5248
+2026-07-21,19:00,Edappally,Weekday,5700
+2026-07-21,20:00,Edappally,Weekday,5622
+2026-07-21,21:00,Edappally,Weekday,2473
+2026-07-21,07:00,MG Road,Weekday,5042
+2026-07-21,08:00,MG Road,Weekday,5490
+2026-07-21,09:00,MG Road,Weekday,5888
+2026-07-21,10:00,MG Road,Weekday,3091
+2026-07-21,11:00,MG Road,Weekday,3677
+2026-07-21,12:00,MG Road,Weekday,3507
+2026-07-21,13:00,MG Road,Weekday,3037
+2026-07-21,14:00,MG Road,Weekday,3386
+2026-07-21,15:00,MG Road,Weekday,3489
+2026-07-21,16:00,MG Road,Weekday,3579
+2026-07-21,17:00,MG Road,Weekday,5535
+2026-07-21,18:00,MG Road,Weekday,5909
+2026-07-21,19:00,MG Road,Weekday,6062
+2026-07-21,20:00,MG Road,Weekday,5580
+2026-07-21,21:00,MG Road,Weekday,2309
+2026-07-21,07:00,Vyttila,Weekday,4691
+2026-07-21,08:00,Vyttila,Weekday,5003
+2026-07-21,09:00,Vyttila,Weekday,4974
+2026-07-21,10:00,Vyttila,Weekday,2646
+2026-07-21,11:00,Vyttila,Weekday,2955
+2026-07-21,12:00,Vyttila,Weekday,3233
+2026-07-21,13:00,Vyttila,Weekday,2994
+2026-07-21,14:00,Vyttila,Weekday,2859
+2026-07-21,15:00,Vyttila,Weekday,3048
+2026-07-21,16:00,Vyttila,Weekday,2765
+2026-07-21,17:00,Vyttila,Weekday,5660
+2026-07-21,18:00,Vyttila,Weekday,5220
+2026-07-21,19:00,Vyttila,Weekday,5392
+2026-07-21,20:00,Vyttila,Weekday,5197
+2026-07-21,21:00,Vyttila,Weekday,2285
+2026-07-22,07:00,Aluva,Weekday,4603
+2026-07-22,08:00,Aluva,Weekday,5329
+2026-07-22,09:00,Aluva,Weekday,5384
+2026-07-22,10:00,Aluva,Weekday,3135
+2026-07-22,11:00,Aluva,Weekday,3280
+2026-07-22,12:00,Aluva,Weekday,3297
+2026-07-22,13:00,Aluva,Weekday,3208
+2026-07-22,14:00,Aluva,Weekday,3000
+2026-07-22,15:00,Aluva,Weekday,3061
+2026-07-22,16:00,Aluva,Weekday,3382
+2026-07-22,17:00,Aluva,Weekday,5087
+2026-07-22,18:00,Aluva,Weekday,4989
+2026-07-22,19:00,Aluva,Weekday,5671
+2026-07-22,20:00,Aluva,Weekday,5763
+2026-07-22,21:00,Aluva,Weekday,2064
+2026-07-22,07:00,Maharajas,Weekday,4163
+2026-07-22,08:00,Maharajas,Weekday,4372
+2026-07-22,09:00,Maharajas,Weekday,4059
+2026-07-22,10:00,Maharajas,Weekday,2654
+2026-07-22,11:00,Maharajas,Weekday,2738
+2026-07-22,12:00,Maharajas,Weekday,2545
+2026-07-22,13:00,Maharajas,Weekday,3004
+2026-07-22,14:00,Maharajas,Weekday,2757
+2026-07-22,15:00,Maharajas,Weekday,2949
+2026-07-22,16:00,Maharajas,Weekday,2900
+2026-07-22,17:00,Maharajas,Weekday,5384
+2026-07-22,18:00,Maharajas,Weekday,5264
+2026-07-22,19:00,Maharajas,Weekday,4905
+2026-07-22,20:00,Maharajas,Weekday,4739
+2026-07-22,21:00,Maharajas,Weekday,2088
+2026-07-22,07:00,Edappally,Weekday,4737
+2026-07-22,08:00,Edappally,Weekday,4693
+2026-07-22,09:00,Edappally,Weekday,5289
+2026-07-22,10:00,Edappally,Weekday,3349
+2026-07-22,11:00,Edappally,Weekday,3465
+2026-07-22,12:00,Edappally,Weekday,3365
+2026-07-22,13:00,Edappally,Weekday,3013
+2026-07-22,14:00,Edappally,Weekday,3198
+2026-07-22,15:00,Edappally,Weekday,3271
+2026-07-22,16:00,Edappally,Weekday,3510
+2026-07-22,17:00,Edappally,Weekday,5234
+2026-07-22,18:00,Edappally,Weekday,5961
+2026-07-22,19:00,Edappally,Weekday,5463
+2026-07-22,20:00,Edappally,Weekday,5358
+2026-07-22,21:00,Edappally,Weekday,2403
+2026-07-22,07:00,MG Road,Weekday,5069
+2026-07-22,08:00,MG Road,Weekday,5097
+2026-07-22,09:00,MG Road,Weekday,4883
+2026-07-22,10:00,MG Road,Weekday,3052
+2026-07-22,11:00,MG Road,Weekday,3661
+2026-07-22,12:00,MG Road,Weekday,3651
+2026-07-22,13:00,MG Road,Weekday,3490
+2026-07-22,14:00,MG Road,Weekday,3189
+2026-07-22,15:00,MG Road,Weekday,3692
+2026-07-22,16:00,MG Road,Weekday,3143
+2026-07-22,17:00,MG Road,Weekday,5914
+2026-07-22,18:00,MG Road,Weekday,6089
+2026-07-22,19:00,MG Road,Weekday,6346
+2026-07-22,20:00,MG Road,Weekday,6456
+2026-07-22,21:00,MG Road,Weekday,2356
+2026-07-22,07:00,Vyttila,Weekday,4439
+2026-07-22,08:00,Vyttila,Weekday,4621
+2026-07-22,09:00,Vyttila,Weekday,4571
+2026-07-22,10:00,Vyttila,Weekday,3146
+2026-07-22,11:00,Vyttila,Weekday,3010
+2026-07-22,12:00,Vyttila,Weekday,2670
+2026-07-22,13:00,Vyttila,Weekday,3223
+2026-07-22,14:00,Vyttila,Weekday,2858
+2026-07-22,15:00,Vyttila,Weekday,3110
+2026-07-22,16:00,Vyttila,Weekday,2816
+2026-07-22,17:00,Vyttila,Weekday,5135
+2026-07-22,18:00,Vyttila,Weekday,5355
+2026-07-22,19:00,Vyttila,Weekday,5613
+2026-07-22,20:00,Vyttila,Weekday,5383
+2026-07-22,21:00,Vyttila,Weekday,2146
+2026-07-23,07:00,Aluva,Weekday,5166
+2026-07-23,08:00,Aluva,Weekday,5070
+2026-07-23,09:00,Aluva,Weekday,4701
+2026-07-23,10:00,Aluva,Weekday,3189
+2026-07-23,11:00,Aluva,Weekday,3009
+2026-07-23,12:00,Aluva,Weekday,3021
+2026-07-23,13:00,Aluva,Weekday,2890
+2026-07-23,14:00,Aluva,Weekday,3344
+2026-07-23,15:00,Aluva,Weekday,2850
+2026-07-23,16:00,Aluva,Weekday,2885
+2026-07-23,17:00,Aluva,Weekday,5229
+2026-07-23,18:00,Aluva,Weekday,5670
+2026-07-23,19:00,Aluva,Weekday,5957
+2026-07-23,20:00,Aluva,Weekday,5251
+2026-07-23,21:00,Aluva,Weekday,2187
+2026-07-23,07:00,Maharajas,Weekday,4787
+2026-07-23,08:00,Maharajas,Weekday,4147
+2026-07-23,09:00,Maharajas,Weekday,4429
+2026-07-23,10:00,Maharajas,Weekday,2597
+2026-07-23,11:00,Maharajas,Weekday,2783
+2026-07-23,12:00,Maharajas,Weekday,2732
+2026-07-23,13:00,Maharajas,Weekday,2768
+2026-07-23,14:00,Maharajas,Weekday,2713
+2026-07-23,15:00,Maharajas,Weekday,2756
+2026-07-23,16:00,Maharajas,Weekday,2713
+2026-07-23,17:00,Maharajas,Weekday,5424
+2026-07-23,18:00,Maharajas,Weekday,5077
+2026-07-23,19:00,Maharajas,Weekday,5394
+2026-07-23,20:00,Maharajas,Weekday,5382
+2026-07-23,21:00,Maharajas,Weekday,1955
+2026-07-23,07:00,Edappally,Weekday,4761
+2026-07-23,08:00,Edappally,Weekday,5341
+2026-07-23,09:00,Edappally,Weekday,5616
+2026-07-23,10:00,Edappally,Weekday,3489
+2026-07-23,11:00,Edappally,Weekday,3325
+2026-07-23,12:00,Edappally,Weekday,3212
+2026-07-23,13:00,Edappally,Weekday,3228
+2026-07-23,14:00,Edappally,Weekday,3046
+2026-07-23,15:00,Edappally,Weekday,3382
+2026-07-23,16:00,Edappally,Weekday,3115
+2026-07-23,17:00,Edappally,Weekday,6271
+2026-07-23,18:00,Edappally,Weekday,6081
+2026-07-23,19:00,Edappally,Weekday,5992
+2026-07-23,20:00,Edappally,Weekday,5480
+2026-07-23,21:00,Edappally,Weekday,2482
+2026-07-23,07:00,MG Road,Weekday,5444
+2026-07-23,08:00,MG Road,Weekday,5066
+2026-07-23,09:00,MG Road,Weekday,5192
+2026-07-23,10:00,MG Road,Weekday,3120
+2026-07-23,11:00,MG Road,Weekday,3581
+2026-07-23,12:00,MG Road,Weekday,3631
+2026-07-23,13:00,MG Road,Weekday,3218
+2026-07-23,14:00,MG Road,Weekday,3425
+2026-07-23,15:00,MG Road,Weekday,3621
+2026-07-23,16:00,MG Road,Weekday,3362
+2026-07-23,17:00,MG Road,Weekday,6153
+2026-07-23,18:00,MG Road,Weekday,6523
+2026-07-23,19:00,MG Road,Weekday,6072
+2026-07-23,20:00,MG Road,Weekday,6391
+2026-07-23,21:00,MG Road,Weekday,2543
+2026-07-23,07:00,Vyttila,Weekday,4976
+2026-07-23,08:00,Vyttila,Weekday,4980
+2026-07-23,09:00,Vyttila,Weekday,4378
+2026-07-23,10:00,Vyttila,Weekday,3233
+2026-07-23,11:00,Vyttila,Weekday,3128
+2026-07-23,12:00,Vyttila,Weekday,3096
+2026-07-23,13:00,Vyttila,Weekday,2659
+2026-07-23,14:00,Vyttila,Weekday,2845
+2026-07-23,15:00,Vyttila,Weekday,3092
+2026-07-23,16:00,Vyttila,Weekday,3033
+2026-07-23,17:00,Vyttila,Weekday,4798
+2026-07-23,18:00,Vyttila,Weekday,5196
+2026-07-23,19:00,Vyttila,Weekday,5590
+2026-07-23,20:00,Vyttila,Weekday,4970
+2026-07-23,21:00,Vyttila,Weekday,1968
+2026-07-24,07:00,Aluva,Weekday,4604
+2026-07-24,08:00,Aluva,Weekday,4714
+2026-07-24,09:00,Aluva,Weekday,5339
+2026-07-24,10:00,Aluva,Weekday,2971
+2026-07-24,11:00,Aluva,Weekday,3314
+2026-07-24,12:00,Aluva,Weekday,3253
+2026-07-24,13:00,Aluva,Weekday,2818
+2026-07-24,14:00,Aluva,Weekday,2968
+2026-07-24,15:00,Aluva,Weekday,3239
+2026-07-24,16:00,Aluva,Weekday,2949
+2026-07-24,17:00,Aluva,Weekday,6024
+2026-07-24,18:00,Aluva,Weekday,5808
+2026-07-24,19:00,Aluva,Weekday,5592
+2026-07-24,20:00,Aluva,Weekday,5726
+2026-07-24,21:00,Aluva,Weekday,2074
+2026-07-24,07:00,Maharajas,Weekday,4774
+2026-07-24,08:00,Maharajas,Weekday,4613
+2026-07-24,09:00,Maharajas,Weekday,4226
+2026-07-24,10:00,Maharajas,Weekday,3071
+2026-07-24,11:00,Maharajas,Weekday,3058
+2026-07-24,12:00,Maharajas,Weekday,2547
+2026-07-24,13:00,Maharajas,Weekday,2789
+2026-07-24,14:00,Maharajas,Weekday,2571
+2026-07-24,15:00,Maharajas,Weekday,2740
+2026-07-24,16:00,Maharajas,Weekday,2677
+2026-07-24,17:00,Maharajas,Weekday,5254
+2026-07-24,18:00,Maharajas,Weekday,5209
+2026-07-24,19:00,Maharajas,Weekday,5252
+2026-07-24,20:00,Maharajas,Weekday,4673
+2026-07-24,21:00,Maharajas,Weekday,2061
+2026-07-24,07:00,Edappally,Weekday,5221
+2026-07-24,08:00,Edappally,Weekday,5295
+2026-07-24,09:00,Edappally,Weekday,5264
+2026-07-24,10:00,Edappally,Weekday,3370
+2026-07-24,11:00,Edappally,Weekday,3397
+2026-07-24,12:00,Edappally,Weekday,3375
+2026-07-24,13:00,Edappally,Weekday,3069
+2026-07-24,14:00,Edappally,Weekday,3382
+2026-07-24,15:00,Edappally,Weekday,3431
+2026-07-24,16:00,Edappally,Weekday,2970
+2026-07-24,17:00,Edappally,Weekday,5522
+2026-07-24,18:00,Edappally,Weekday,5444
+2026-07-24,19:00,Edappally,Weekday,5694
+2026-07-24,20:00,Edappally,Weekday,5951
+2026-07-24,21:00,Edappally,Weekday,2203
+2026-07-24,07:00,MG Road,Weekday,5068
+2026-07-24,08:00,MG Road,Weekday,5727
+2026-07-24,09:00,MG Road,Weekday,5241
+2026-07-24,10:00,MG Road,Weekday,3485
+2026-07-24,11:00,MG Road,Weekday,3592
+2026-07-24,12:00,MG Road,Weekday,3027
+2026-07-24,13:00,MG Road,Weekday,3108
+2026-07-24,14:00,MG Road,Weekday,3453
+2026-07-24,15:00,MG Road,Weekday,3139
+2026-07-24,16:00,MG Road,Weekday,3147
+2026-07-24,17:00,MG Road,Weekday,5750
+2026-07-24,18:00,MG Road,Weekday,5813
+2026-07-24,19:00,MG Road,Weekday,5882
+2026-07-24,20:00,MG Road,Weekday,5534
+2026-07-24,21:00,MG Road,Weekday,2443
+2026-07-24,07:00,Vyttila,Weekday,4363
+2026-07-24,08:00,Vyttila,Weekday,4275
+2026-07-24,09:00,Vyttila,Weekday,4852
+2026-07-24,10:00,Vyttila,Weekday,2981
+2026-07-24,11:00,Vyttila,Weekday,2654
+2026-07-24,12:00,Vyttila,Weekday,2864
+2026-07-24,13:00,Vyttila,Weekday,2859
+2026-07-24,14:00,Vyttila,Weekday,2874
+2026-07-24,15:00,Vyttila,Weekday,3188
+2026-07-24,16:00,Vyttila,Weekday,3096
+2026-07-24,17:00,Vyttila,Weekday,4984
+2026-07-24,18:00,Vyttila,Weekday,4940
+2026-07-24,19:00,Vyttila,Weekday,5071
+2026-07-24,20:00,Vyttila,Weekday,5643
+2026-07-24,21:00,Vyttila,Weekday,1922
+2026-07-25,07:00,Aluva,Weekend,4319
+2026-07-25,08:00,Aluva,Weekend,3564
+2026-07-25,09:00,Aluva,Weekend,4337
+2026-07-25,10:00,Aluva,Weekend,2427
+2026-07-25,11:00,Aluva,Weekend,2335
+2026-07-25,12:00,Aluva,Weekend,2570
+2026-07-25,13:00,Aluva,Weekend,2516
+2026-07-25,14:00,Aluva,Weekend,2585
+2026-07-25,15:00,Aluva,Weekend,2541
+2026-07-25,16:00,Aluva,Weekend,2668
+2026-07-25,17:00,Aluva,Weekend,4078
+2026-07-25,18:00,Aluva,Weekend,4627
+2026-07-25,19:00,Aluva,Weekend,4457
+2026-07-25,20:00,Aluva,Weekend,4387
+2026-07-25,21:00,Aluva,Weekend,1717
+2026-07-25,07:00,Maharajas,Weekend,3897
+2026-07-25,08:00,Maharajas,Weekend,3637
+2026-07-25,09:00,Maharajas,Weekend,3276
+2026-07-25,10:00,Maharajas,Weekend,2075
+2026-07-25,11:00,Maharajas,Weekend,2242
+2026-07-25,12:00,Maharajas,Weekend,2341
+2026-07-25,13:00,Maharajas,Weekend,2124
+2026-07-25,14:00,Maharajas,Weekend,2290
+2026-07-25,15:00,Maharajas,Weekend,2159
+2026-07-25,16:00,Maharajas,Weekend,2408
+2026-07-25,17:00,Maharajas,Weekend,3697
+2026-07-25,18:00,Maharajas,Weekend,3875
+2026-07-25,19:00,Maharajas,Weekend,3907
+2026-07-25,20:00,Maharajas,Weekend,4240
+2026-07-25,21:00,Maharajas,Weekend,1522
+2026-07-25,07:00,Edappally,Weekend,3780
+2026-07-25,08:00,Edappally,Weekend,4226
+2026-07-25,09:00,Edappally,Weekend,3928
+2026-07-25,10:00,Edappally,Weekend,2780
+2026-07-25,11:00,Edappally,Weekend,2485
+2026-07-25,12:00,Edappally,Weekend,2752
+2026-07-25,13:00,Edappally,Weekend,2347
+2026-07-25,14:00,Edappally,Weekend,2332
+2026-07-25,15:00,Edappally,Weekend,2403
+2026-07-25,16:00,Edappally,Weekend,2709
+2026-07-25,17:00,Edappally,Weekend,4257
+2026-07-25,18:00,Edappally,Weekend,4853
+2026-07-25,19:00,Edappally,Weekend,4431
+2026-07-25,20:00,Edappally,Weekend,4602
+2026-07-25,21:00,Edappally,Weekend,1848
+2026-07-25,07:00,MG Road,Weekend,4545
+2026-07-25,08:00,MG Road,Weekend,4392
+2026-07-25,09:00,MG Road,Weekend,4463
+2026-07-25,10:00,MG Road,Weekend,2520
+2026-07-25,11:00,MG Road,Weekend,2772
+2026-07-25,12:00,MG Road,Weekend,2705
+2026-07-25,13:00,MG Road,Weekend,2531
+2026-07-25,14:00,MG Road,Weekend,2608
+2026-07-25,15:00,MG Road,Weekend,2607
+2026-07-25,16:00,MG Road,Weekend,2643
+2026-07-25,17:00,MG Road,Weekend,4365
+2026-07-25,18:00,MG Road,Weekend,4518
+2026-07-25,19:00,MG Road,Weekend,4558
+2026-07-25,20:00,MG Road,Weekend,4813
+2026-07-25,21:00,MG Road,Weekend,2103
+2026-07-25,07:00,Vyttila,Weekend,4067
+2026-07-25,08:00,Vyttila,Weekend,3876
+2026-07-25,09:00,Vyttila,Weekend,4098
+2026-07-25,10:00,Vyttila,Weekend,2329
+2026-07-25,11:00,Vyttila,Weekend,2302
+2026-07-25,12:00,Vyttila,Weekend,2544
+2026-07-25,13:00,Vyttila,Weekend,2330
+2026-07-25,14:00,Vyttila,Weekend,2121
+2026-07-25,15:00,Vyttila,Weekend,2156
+2026-07-25,16:00,Vyttila,Weekend,2489
+2026-07-25,17:00,Vyttila,Weekend,4444
+2026-07-25,18:00,Vyttila,Weekend,4179
+2026-07-25,19:00,Vyttila,Weekend,3857
+2026-07-25,20:00,Vyttila,Weekend,3925
+2026-07-25,21:00,Vyttila,Weekend,1776
+2026-07-26,07:00,Aluva,Weekend,4069
+2026-07-26,08:00,Aluva,Weekend,3826
+2026-07-26,09:00,Aluva,Weekend,4022
+2026-07-26,10:00,Aluva,Weekend,2218
+2026-07-26,11:00,Aluva,Weekend,2583
+2026-07-26,12:00,Aluva,Weekend,2574
+2026-07-26,13:00,Aluva,Weekend,2556
+2026-07-26,14:00,Aluva,Weekend,2470
+2026-07-26,15:00,Aluva,Weekend,2525
+2026-07-26,16:00,Aluva,Weekend,2618
+2026-07-26,17:00,Aluva,Weekend,4397
+2026-07-26,18:00,Aluva,Weekend,4408
+2026-07-26,19:00,Aluva,Weekend,4569
+2026-07-26,20:00,Aluva,Weekend,4465
+2026-07-26,21:00,Aluva,Weekend,1841
+2026-07-26,07:00,Maharajas,Weekend,3243
+2026-07-26,08:00,Maharajas,Weekend,3777
+2026-07-26,09:00,Maharajas,Weekend,3718
+2026-07-26,10:00,Maharajas,Weekend,2118
+2026-07-26,11:00,Maharajas,Weekend,2299
+2026-07-26,12:00,Maharajas,Weekend,2297
+2026-07-26,13:00,Maharajas,Weekend,2150
+2026-07-26,14:00,Maharajas,Weekend,2035
+2026-07-26,15:00,Maharajas,Weekend,2082
+2026-07-26,16:00,Maharajas,Weekend,2196
+2026-07-26,17:00,Maharajas,Weekend,3781
+2026-07-26,18:00,Maharajas,Weekend,4241
+2026-07-26,19:00,Maharajas,Weekend,4170
+2026-07-26,20:00,Maharajas,Weekend,4229
+2026-07-26,21:00,Maharajas,Weekend,1475
+2026-07-26,07:00,Edappally,Weekend,4276
+2026-07-26,08:00,Edappally,Weekend,4374
+2026-07-26,09:00,Edappally,Weekend,4315
+2026-07-26,10:00,Edappally,Weekend,2462
+2026-07-26,11:00,Edappally,Weekend,2354
+2026-07-26,12:00,Edappally,Weekend,2579
+2026-07-26,13:00,Edappally,Weekend,2819
+2026-07-26,14:00,Edappally,Weekend,2663
+2026-07-26,15:00,Edappally,Weekend,2571
+2026-07-26,16:00,Edappally,Weekend,2729
+2026-07-26,17:00,Edappally,Weekend,4269
+2026-07-26,18:00,Edappally,Weekend,4588
+2026-07-26,19:00,Edappally,Weekend,4522
+2026-07-26,20:00,Edappally,Weekend,4562
+2026-07-26,21:00,Edappally,Weekend,1666
+2026-07-26,07:00,MG Road,Weekend,4685
+2026-07-26,08:00,MG Road,Weekend,4672
+2026-07-26,09:00,MG Road,Weekend,3931
+2026-07-26,10:00,MG Road,Weekend,2799
+2026-07-26,11:00,MG Road,Weekend,2589
+2026-07-26,12:00,MG Road,Weekend,2514
+2026-07-26,13:00,MG Road,Weekend,2557
+2026-07-26,14:00,MG Road,Weekend,2478
+2026-07-26,15:00,MG Road,Weekend,2800
+2026-07-26,16:00,MG Road,Weekend,2555
+2026-07-26,17:00,MG Road,Weekend,4865
+2026-07-26,18:00,MG Road,Weekend,4411
+2026-07-26,19:00,MG Road,Weekend,5018
+2026-07-26,20:00,MG Road,Weekend,4680
+2026-07-26,21:00,MG Road,Weekend,1961
+2026-07-26,07:00,Vyttila,Weekend,3917
+2026-07-26,08:00,Vyttila,Weekend,3978
+2026-07-26,09:00,Vyttila,Weekend,3589
+2026-07-26,10:00,Vyttila,Weekend,2555
+2026-07-26,11:00,Vyttila,Weekend,2214
+2026-07-26,12:00,Vyttila,Weekend,2385
+2026-07-26,13:00,Vyttila,Weekend,2343
+2026-07-26,14:00,Vyttila,Weekend,2118
+2026-07-26,15:00,Vyttila,Weekend,2367
+2026-07-26,16:00,Vyttila,Weekend,2277
+2026-07-26,17:00,Vyttila,Weekend,4469
+2026-07-26,18:00,Vyttila,Weekend,3960
+2026-07-26,19:00,Vyttila,Weekend,4555
+2026-07-26,20:00,Vyttila,Weekend,4374
+2026-07-26,21:00,Vyttila,Weekend,1664
+2026-07-27,07:00,Aluva,Weekday,4488
+2026-07-27,08:00,Aluva,Weekday,4845
+2026-07-27,09:00,Aluva,Weekday,5392
+2026-07-27,10:00,Aluva,Weekday,2987
+2026-07-27,11:00,Aluva,Weekday,3380
+2026-07-27,12:00,Aluva,Weekday,2817
+2026-07-27,13:00,Aluva,Weekday,3150
+2026-07-27,14:00,Aluva,Weekday,2959
+2026-07-27,15:00,Aluva,Weekday,3311
+2026-07-27,16:00,Aluva,Weekday,3136
+2026-07-27,17:00,Aluva,Weekday,5141
+2026-07-27,18:00,Aluva,Weekday,5493
+2026-07-27,19:00,Aluva,Weekday,5342
+2026-07-27,20:00,Aluva,Weekday,5499
+2026-07-27,21:00,Aluva,Weekday,2097
+2026-07-27,07:00,Maharajas,Weekday,4819
+2026-07-27,08:00,Maharajas,Weekday,4383
+2026-07-27,09:00,Maharajas,Weekday,4657
+2026-07-27,10:00,Maharajas,Weekday,2674
+2026-07-27,11:00,Maharajas,Weekday,2780
+2026-07-27,12:00,Maharajas,Weekday,2533
+2026-07-27,13:00,Maharajas,Weekday,3078
+2026-07-27,14:00,Maharajas,Weekday,2581
+2026-07-27,15:00,Maharajas,Weekday,2568
+2026-07-27,16:00,Maharajas,Weekday,2775
+2026-07-27,17:00,Maharajas,Weekday,4977
+2026-07-27,18:00,Maharajas,Weekday,5276
+2026-07-27,19:00,Maharajas,Weekday,5023
+2026-07-27,20:00,Maharajas,Weekday,4883
+2026-07-27,21:00,Maharajas,Weekday,1962
+2026-07-27,07:00,Edappally,Weekday,5669
+2026-07-27,08:00,Edappally,Weekday,5472
+2026-07-27,09:00,Edappally,Weekday,5615
+2026-07-27,10:00,Edappally,Weekday,3225
+2026-07-27,11:00,Edappally,Weekday,3306
+2026-07-27,12:00,Edappally,Weekday,2974
+2026-07-27,13:00,Edappally,Weekday,2944
+2026-07-27,14:00,Edappally,Weekday,3247
+2026-07-27,15:00,Edappally,Weekday,2918
+2026-07-27,16:00,Edappally,Weekday,3081
+2026-07-27,17:00,Edappally,Weekday,5698
+2026-07-27,18:00,Edappally,Weekday,5913
+2026-07-27,19:00,Edappally,Weekday,5776
+2026-07-27,20:00,Edappally,Weekday,5368
+2026-07-27,21:00,Edappally,Weekday,2434
+2026-07-27,07:00,MG Road,Weekday,5569
+2026-07-27,08:00,MG Road,Weekday,5009
+2026-07-27,09:00,MG Road,Weekday,5502
+2026-07-27,10:00,MG Road,Weekday,3323
+2026-07-27,11:00,MG Road,Weekday,3315
+2026-07-27,12:00,MG Road,Weekday,3077
+2026-07-27,13:00,MG Road,Weekday,3633
+2026-07-27,14:00,MG Road,Weekday,3096
+2026-07-27,15:00,MG Road,Weekday,3498
+2026-07-27,16:00,MG Road,Weekday,3309
+2026-07-27,17:00,MG Road,Weekday,5861
+2026-07-27,18:00,MG Road,Weekday,5720
+2026-07-27,19:00,MG Road,Weekday,5801
+2026-07-27,20:00,MG Road,Weekday,5935
+2026-07-27,21:00,MG Road,Weekday,2545
+2026-07-27,07:00,Vyttila,Weekday,5181
+2026-07-27,08:00,Vyttila,Weekday,5041
+2026-07-27,09:00,Vyttila,Weekday,4725
+2026-07-27,10:00,Vyttila,Weekday,2787
+2026-07-27,11:00,Vyttila,Weekday,3230
+2026-07-27,12:00,Vyttila,Weekday,3112
+2026-07-27,13:00,Vyttila,Weekday,3085
+2026-07-27,14:00,Vyttila,Weekday,3054
+2026-07-27,15:00,Vyttila,Weekday,3151
+2026-07-27,16:00,Vyttila,Weekday,2947
+2026-07-27,17:00,Vyttila,Weekday,5170
+2026-07-27,18:00,Vyttila,Weekday,5191
+2026-07-27,19:00,Vyttila,Weekday,5229
+2026-07-27,20:00,Vyttila,Weekday,5578
+2026-07-27,21:00,Vyttila,Weekday,2159
+2026-07-28,07:00,Aluva,Weekday,4770
+2026-07-28,08:00,Aluva,Weekday,5263
+2026-07-28,09:00,Aluva,Weekday,5116
+2026-07-28,10:00,Aluva,Weekday,3308
+2026-07-28,11:00,Aluva,Weekday,3060
+2026-07-28,12:00,Aluva,Weekday,3285
+2026-07-28,13:00,Aluva,Weekday,2869
+2026-07-28,14:00,Aluva,Weekday,3121
+2026-07-28,15:00,Aluva,Weekday,3157
+2026-07-28,16:00,Aluva,Weekday,3045
+2026-07-28,17:00,Aluva,Weekday,5230
+2026-07-28,18:00,Aluva,Weekday,5409
+2026-07-28,19:00,Aluva,Weekday,5142
+2026-07-28,20:00,Aluva,Weekday,4972
+2026-07-28,21:00,Aluva,Weekday,2224
+2026-07-28,07:00,Maharajas,Weekday,4055
+2026-07-28,08:00,Maharajas,Weekday,4390
+2026-07-28,09:00,Maharajas,Weekday,4071
+2026-07-28,10:00,Maharajas,Weekday,2841
+2026-07-28,11:00,Maharajas,Weekday,2817
+2026-07-28,12:00,Maharajas,Weekday,2616
+2026-07-28,13:00,Maharajas,Weekday,2608
+2026-07-28,14:00,Maharajas,Weekday,3006
+2026-07-28,15:00,Maharajas,Weekday,2706
+2026-07-28,16:00,Maharajas,Weekday,2858
+2026-07-28,17:00,Maharajas,Weekday,4626
+2026-07-28,18:00,Maharajas,Weekday,4580
+2026-07-28,19:00,Maharajas,Weekday,5383
+2026-07-28,20:00,Maharajas,Weekday,4990
+2026-07-28,21:00,Maharajas,Weekday,2129
+2026-07-28,07:00,Edappally,Weekday,5667
+2026-07-28,08:00,Edappally,Weekday,5394
+2026-07-28,09:00,Edappally,Weekday,5445
+2026-07-28,10:00,Edappally,Weekday,3385
+2026-07-28,11:00,Edappally,Weekday,3519
+2026-07-28,12:00,Edappally,Weekday,3015
+2026-07-28,13:00,Edappally,Weekday,3492
+2026-07-28,14:00,Edappally,Weekday,3025
+2026-07-28,15:00,Edappally,Weekday,3497
+2026-07-28,16:00,Edappally,Weekday,3227
+2026-07-28,17:00,Edappally,Weekday,5808
+2026-07-28,18:00,Edappally,Weekday,5197
+2026-07-28,19:00,Edappally,Weekday,6271
+2026-07-28,20:00,Edappally,Weekday,6265
+2026-07-28,21:00,Edappally,Weekday,2367
+2026-07-28,07:00,MG Road,Weekday,4893
+2026-07-28,08:00,MG Road,Weekday,5716
+2026-07-28,09:00,MG Road,Weekday,5445
+2026-07-28,10:00,MG Road,Weekday,3626
+2026-07-28,11:00,MG Road,Weekday,3032
+2026-07-28,12:00,MG Road,Weekday,3109
+2026-07-28,13:00,MG Road,Weekday,3631
+2026-07-28,14:00,MG Road,Weekday,3310
+2026-07-28,15:00,MG Road,Weekday,3062
+2026-07-28,16:00,MG Road,Weekday,3653
+2026-07-28,17:00,MG Road,Weekday,5708
+2026-07-28,18:00,MG Road,Weekday,6156
+2026-07-28,19:00,MG Road,Weekday,6228
+2026-07-28,20:00,MG Road,Weekday,6098
+2026-07-28,21:00,MG Road,Weekday,2522
+2026-07-28,07:00,Vyttila,Weekday,4458
+2026-07-28,08:00,Vyttila,Weekday,5076
+2026-07-28,09:00,Vyttila,Weekday,4304
+2026-07-28,10:00,Vyttila,Weekday,2713
+2026-07-28,11:00,Vyttila,Weekday,3123
+2026-07-28,12:00,Vyttila,Weekday,2878
+2026-07-28,13:00,Vyttila,Weekday,3220
+2026-07-28,14:00,Vyttila,Weekday,3015
+2026-07-28,15:00,Vyttila,Weekday,2973
+2026-07-28,16:00,Vyttila,Weekday,2783
+2026-07-28,17:00,Vyttila,Weekday,5746
+2026-07-28,18:00,Vyttila,Weekday,5002
+2026-07-28,19:00,Vyttila,Weekday,5407
+2026-07-28,20:00,Vyttila,Weekday,5422
+2026-07-28,21:00,Vyttila,Weekday,2006
+2026-07-29,07:00,Aluva,Weekday,4894
+2026-07-29,08:00,Aluva,Weekday,4787
+2026-07-29,09:00,Aluva,Weekday,4575
+2026-07-29,10:00,Aluva,Weekday,2862
+2026-07-29,11:00,Aluva,Weekday,3252
+2026-07-29,12:00,Aluva,Weekday,3385
+2026-07-29,13:00,Aluva,Weekday,3157
+2026-07-29,14:00,Aluva,Weekday,2998
+2026-07-29,15:00,Aluva,Weekday,3207
+2026-07-29,16:00,Aluva,Weekday,2840
+2026-07-29,17:00,Aluva,Weekday,5586
+2026-07-29,18:00,Aluva,Weekday,5000
+2026-07-29,19:00,Aluva,Weekday,5885
+2026-07-29,20:00,Aluva,Weekday,5949
+2026-07-29,21:00,Aluva,Weekday,2188
+2026-07-29,07:00,Maharajas,Weekday,4768
+2026-07-29,08:00,Maharajas,Weekday,4550
+2026-07-29,09:00,Maharajas,Weekday,4451
+2026-07-29,10:00,Maharajas,Weekday,2748
+2026-07-29,11:00,Maharajas,Weekday,2934
+2026-07-29,12:00,Maharajas,Weekday,3001
+2026-07-29,13:00,Maharajas,Weekday,2532
+2026-07-29,14:00,Maharajas,Weekday,2692
+2026-07-29,15:00,Maharajas,Weekday,2521
+2026-07-29,16:00,Maharajas,Weekday,2747
+2026-07-29,17:00,Maharajas,Weekday,4662
+2026-07-29,18:00,Maharajas,Weekday,5445
+2026-07-29,19:00,Maharajas,Weekday,4996
+2026-07-29,20:00,Maharajas,Weekday,5241
+2026-07-29,21:00,Maharajas,Weekday,1939
+2026-07-29,07:00,Edappally,Weekday,5592
+2026-07-29,08:00,Edappally,Weekday,5654
+2026-07-29,09:00,Edappally,Weekday,4705
+2026-07-29,10:00,Edappally,Weekday,3422
+2026-07-29,11:00,Edappally,Weekday,3309
+2026-07-29,12:00,Edappally,Weekday,3471
+2026-07-29,13:00,Edappally,Weekday,3522
+2026-07-29,14:00,Edappally,Weekday,3119
+2026-07-29,15:00,Edappally,Weekday,3514
+2026-07-29,16:00,Edappally,Weekday,3215
+2026-07-29,17:00,Edappally,Weekday,5379
+2026-07-29,18:00,Edappally,Weekday,6311
+2026-07-29,19:00,Edappally,Weekday,5688
+2026-07-29,20:00,Edappally,Weekday,5597
+2026-07-29,21:00,Edappally,Weekday,2184
+2026-07-29,07:00,MG Road,Weekday,5850
+2026-07-29,08:00,MG Road,Weekday,5378
+2026-07-29,09:00,MG Road,Weekday,5141
+2026-07-29,10:00,MG Road,Weekday,3422
+2026-07-29,11:00,MG Road,Weekday,3136
+2026-07-29,12:00,MG Road,Weekday,3242
+2026-07-29,13:00,MG Road,Weekday,3542
+2026-07-29,14:00,MG Road,Weekday,3599
+2026-07-29,15:00,MG Road,Weekday,3222
+2026-07-29,16:00,MG Road,Weekday,3378
+2026-07-29,17:00,MG Road,Weekday,6165
+2026-07-29,18:00,MG Road,Weekday,5792
+2026-07-29,19:00,MG Road,Weekday,6480
+2026-07-29,20:00,MG Road,Weekday,6394
+2026-07-29,21:00,MG Road,Weekday,2409
+2026-07-29,07:00,Vyttila,Weekday,4852
+2026-07-29,08:00,Vyttila,Weekday,5177
+2026-07-29,09:00,Vyttila,Weekday,4670
+2026-07-29,10:00,Vyttila,Weekday,2799
+2026-07-29,11:00,Vyttila,Weekday,3011
+2026-07-29,12:00,Vyttila,Weekday,2817
+2026-07-29,13:00,Vyttila,Weekday,3222
+2026-07-29,14:00,Vyttila,Weekday,3178
+2026-07-29,15:00,Vyttila,Weekday,2974
+2026-07-29,16:00,Vyttila,Weekday,2793
+2026-07-29,17:00,Vyttila,Weekday,5692
+2026-07-29,18:00,Vyttila,Weekday,5578
+2026-07-29,19:00,Vyttila,Weekday,4775
+2026-07-29,20:00,Vyttila,Weekday,5189
+2026-07-29,21:00,Vyttila,Weekday,2088
+2026-07-30,07:00,Aluva,Weekday,5075
+2026-07-30,08:00,Aluva,Weekday,4557
+2026-07-30,09:00,Aluva,Weekday,4486
+2026-07-30,10:00,Aluva,Weekday,2880
+2026-07-30,11:00,Aluva,Weekday,2817
+2026-07-30,12:00,Aluva,Weekday,2891
+2026-07-30,13:00,Aluva,Weekday,2842
+2026-07-30,14:00,Aluva,Weekday,3109
+2026-07-30,15:00,Aluva,Weekday,3349
+2026-07-30,16:00,Aluva,Weekday,2929
+2026-07-30,17:00,Aluva,Weekday,5401
+2026-07-30,18:00,Aluva,Weekday,5924
+2026-07-30,19:00,Aluva,Weekday,5891
+2026-07-30,20:00,Aluva,Weekday,5973
+2026-07-30,21:00,Aluva,Weekday,2111
+2026-07-30,07:00,Maharajas,Weekday,4752
+2026-07-30,08:00,Maharajas,Weekday,4418
+2026-07-30,09:00,Maharajas,Weekday,4130
+2026-07-30,10:00,Maharajas,Weekday,2824
+2026-07-30,11:00,Maharajas,Weekday,2970
+2026-07-30,12:00,Maharajas,Weekday,2520
+2026-07-30,13:00,Maharajas,Weekday,2931
+2026-07-30,14:00,Maharajas,Weekday,2862
+2026-07-30,15:00,Maharajas,Weekday,3070
+2026-07-30,16:00,Maharajas,Weekday,2846
+2026-07-30,17:00,Maharajas,Weekday,5091
+2026-07-30,18:00,Maharajas,Weekday,4641
+2026-07-30,19:00,Maharajas,Weekday,4946
+2026-07-30,20:00,Maharajas,Weekday,5255
+2026-07-30,21:00,Maharajas,Weekday,1892
+2026-07-30,07:00,Edappally,Weekday,5037
+2026-07-30,08:00,Edappally,Weekday,4717
+2026-07-30,09:00,Edappally,Weekday,5304
+2026-07-30,10:00,Edappally,Weekday,3087
+2026-07-30,11:00,Edappally,Weekday,3049
+2026-07-30,12:00,Edappally,Weekday,3086
+2026-07-30,13:00,Edappally,Weekday,3400
+2026-07-30,14:00,Edappally,Weekday,3256
+2026-07-30,15:00,Edappally,Weekday,3155
+2026-07-30,16:00,Edappally,Weekday,3276
+2026-07-30,17:00,Edappally,Weekday,6066
+2026-07-30,18:00,Edappally,Weekday,5193
+2026-07-30,19:00,Edappally,Weekday,5506
+2026-07-30,20:00,Edappally,Weekday,5762
+2026-07-30,21:00,Edappally,Weekday,2452
+2026-07-30,07:00,MG Road,Weekday,5269
+2026-07-30,08:00,MG Road,Weekday,5580
+2026-07-30,09:00,MG Road,Weekday,5099
+2026-07-30,10:00,MG Road,Weekday,3126
+2026-07-30,11:00,MG Road,Weekday,3109
+2026-07-30,12:00,MG Road,Weekday,3340
+2026-07-30,13:00,MG Road,Weekday,3635
+2026-07-30,14:00,MG Road,Weekday,3496
+2026-07-30,15:00,MG Road,Weekday,3241
+2026-07-30,16:00,MG Road,Weekday,3387
+2026-07-30,17:00,MG Road,Weekday,5429
+2026-07-30,18:00,MG Road,Weekday,5780
+2026-07-30,19:00,MG Road,Weekday,6145
+2026-07-30,20:00,MG Road,Weekday,5728
+2026-07-30,21:00,MG Road,Weekday,2360
+2026-07-30,07:00,Vyttila,Weekday,4775
+2026-07-30,08:00,Vyttila,Weekday,4673
+2026-07-30,09:00,Vyttila,Weekday,4982
+2026-07-30,10:00,Vyttila,Weekday,2985
+2026-07-30,11:00,Vyttila,Weekday,2996
+2026-07-30,12:00,Vyttila,Weekday,2774
+2026-07-30,13:00,Vyttila,Weekday,2647
+2026-07-30,14:00,Vyttila,Weekday,3129
+2026-07-30,15:00,Vyttila,Weekday,2876
+2026-07-30,16:00,Vyttila,Weekday,3056
+2026-07-30,17:00,Vyttila,Weekday,5123
+2026-07-30,18:00,Vyttila,Weekday,4961
+2026-07-30,19:00,Vyttila,Weekday,4877
+2026-07-30,20:00,Vyttila,Weekday,5386
+2026-07-30,21:00,Vyttila,Weekday,2036
